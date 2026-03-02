@@ -1,0 +1,6 @@
+{
+  "repo": "UXARRAY/uxarray",
+  "sha": "4279e41a682529f432cb073480f5fa5198585c9d",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev,test]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
