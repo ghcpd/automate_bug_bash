@@ -1,0 +1,6 @@
+{
+  "repo": "TheoChem-VU/TCutility",
+  "sha": "1f9cfd4dd6b9e0c5d0e97f209b974897a9b567b6",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev,analysis,vdd]\" --quiet && uv pip install --python /opt/venv/bin/python filelock --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
