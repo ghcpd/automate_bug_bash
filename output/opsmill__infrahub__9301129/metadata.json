@@ -1,0 +1,6 @@
+{
+  "repo": "opsmill/infrahub",
+  "sha": "9301129ee10f1403da5dd46738a891a7fcc04ed9",
+  "setup_cmd": "cd /app && git submodule update --init --recursive python_sdk && sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --all-groups",
+  "test_cmd": "cd /app && .venv/bin/python -m pytest backend/tests/unit --tb=short -q"
+}
