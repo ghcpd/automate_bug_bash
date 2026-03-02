@@ -1,0 +1,6 @@
+{
+  "repo": "h2oai/h2o-llmstudio",
+  "sha": "751e7e7ed45d548e3e34adc5ac00ceefa18db164",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv python install 3.10 && uv sync --dev --python 3.10",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q --ignore=tests/ui --ignore=tests/integration"
+}
