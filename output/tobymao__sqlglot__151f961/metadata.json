@@ -1,0 +1,6 @@
+{
+  "repo": "tobymao/sqlglot",
+  "sha": "151f961f6575e9cdd54a1cab3dad66fa2a12774c",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev]\" --quiet && uv pip install --python /opt/venv/bin/python pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
