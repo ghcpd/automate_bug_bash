@@ -1,0 +1,6 @@
+{
+  "repo": "getsentry/sentry-python",
+  "sha": "c11d1f2f23899ed3511d478b30ea24777222c274",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[pure-eval]\" --quiet && uv pip install --python /opt/venv/bin/python -r requirements-testing.txt --quiet && uv pip install --python /opt/venv/bin/python pytest-asyncio --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest tests/ --tb=short -q --override-ini='addopts=' --ignore=tests/integrations"
+}
