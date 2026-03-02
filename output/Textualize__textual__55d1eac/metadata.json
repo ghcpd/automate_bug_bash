@@ -1,0 +1,6 @@
+{
+  "repo": "Textualize/textual",
+  "sha": "55d1eac0b8531908718fda842ed92dc023dd7cea",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e . --quiet && uv pip install --python /opt/venv/bin/python pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
