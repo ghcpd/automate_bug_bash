@@ -1,0 +1,6 @@
+{
+  "repo": "cfpb/sbl-filing-api",
+  "sha": "395fa9ce80f655557d13a71394361661f7ab0d53",
+  "setup_cmd": "uv venv /opt/venv && uv pip install --python /opt/venv/bin/python poetry && /opt/venv/bin/poetry install --with dev",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
