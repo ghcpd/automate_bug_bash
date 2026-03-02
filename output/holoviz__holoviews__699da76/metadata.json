@@ -1,0 +1,6 @@
+{
+  "repo": "holoviz/holoviews",
+  "sha": "699da76b1d5b907fbe45dd4228e76df46138c6fc",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --all-groups --quiet && uv pip install --python .venv/bin/python coverage --quiet",
+  "test_cmd": ".venv/bin/python -m pytest --tb=short -q"
+}
