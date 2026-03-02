@@ -1,0 +1,6 @@
+{
+  "repo": "Garden-AI/garden",
+  "sha": "fedf8a83d9261b3b6928869c370206c26929ceb7",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --all-groups",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
