@@ -1,0 +1,6 @@
+{
+  "repo": "GraphingLib/GraphingLib",
+  "sha": "133d375b61e70afb71b219a53097c2c0ae413742",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e . --quiet && uv pip install --python /opt/venv/bin/python pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
