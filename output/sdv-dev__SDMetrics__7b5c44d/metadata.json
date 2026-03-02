@@ -1,0 +1,6 @@
+{
+  "repo": "sdv-dev/SDMetrics",
+  "sha": "7b5c44d4576ca4ff939fb221e32c8ae43d2946db",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev,test]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
