@@ -1,0 +1,6 @@
+{
+  "repo": "fractal-analytics-platform/fractal-server",
+  "sha": "f9de16ecc81e2475e5d2819def944e32ab0fbcd3",
+  "setup_cmd": "cd /app && sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --dev",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
