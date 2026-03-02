@@ -1,0 +1,6 @@
+{
+  "repo": "prettytable/prettytable",
+  "sha": "37a02661a7fab52d4d2db613ffeda44ea928ae60",
+  "setup_cmd": "cd /app && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e '.[tests]' --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=no -q"
+}

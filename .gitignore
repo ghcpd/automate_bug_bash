@@ -36,8 +36,6 @@ htmlcov/
 # Docker
 *.log
 
-# Pipeline output
-output/
 
 # OS
 .DS_Store
