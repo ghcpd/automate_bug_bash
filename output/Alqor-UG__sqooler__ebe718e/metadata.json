@@ -1,0 +1,6 @@
+{
+  "repo": "Alqor-UG/sqooler",
+  "sha": "ebe718e9d26112474b324f0e026152a2a53d00b8",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e . --quiet && uv pip install --python /opt/venv/bin/python pytest pytest-cov python-decouple icecream --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
