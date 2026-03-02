@@ -1,0 +1,6 @@
+{
+  "repo": "pydantic/pydantic",
+  "sha": "ae41acd870188cd777c06cf37c3fa47f8a6f9169",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --group dev --quiet",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
