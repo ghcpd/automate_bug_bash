@@ -1,0 +1,6 @@
+{
+  "repo": "docarray/docarray",
+  "sha": "f5fc0f6d5f3dcb0201dc735262ef3256bdf054b9",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e . --quiet && uv pip install --python /opt/venv/bin/python pytest pytest-cov pytest-asyncio httpx protobuf lz4 pillow pandas --quiet && uv pip install --python /opt/venv/bin/python torch --index-url https://download.pytorch.org/whl/cpu --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=no -q --continue-on-collection-errors"
+}
