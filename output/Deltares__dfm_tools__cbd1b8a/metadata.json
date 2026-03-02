@@ -1,0 +1,6 @@
+{
+  "repo": "Deltares/dfm_tools",
+  "sha": "cbd1b8a7ddc071a5f79f37688618a61b7641f389",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
