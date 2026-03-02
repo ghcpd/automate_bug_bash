@@ -1,0 +1,6 @@
+{
+  "repo": "scikit-hep/awkward",
+  "sha": "a6c3b25c36a40732c20b45313f8b705b94e1fc2d",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python awkward-cpp==52 --quiet && uv pip install --python /opt/venv/bin/python -e /app --quiet && uv pip install --python /opt/venv/bin/python pytest pytest-xdist --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
