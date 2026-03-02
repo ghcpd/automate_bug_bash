@@ -1,0 +1,6 @@
+{
+  "repo": "cal-itp/benefits",
+  "sha": "9c1f68d7415f1ca5bb9329217a8fd26a4c072c94",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev,test]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
