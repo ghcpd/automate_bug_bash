@@ -1,0 +1,6 @@
+{
+  "repo": "litestar-org/litestar",
+  "sha": "2613a77c4f5dc37741bdbffaec223817f24f06e1",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --group test --group dev --quiet",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
