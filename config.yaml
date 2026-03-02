@@ -1,0 +1,39 @@
+# Pipeline configuration — edit before running
+
+github:
+  # Required: export GITHUB_TOKEN before running
+  search_query: "language:Python stars:>50 pushed:>2025-08-01 fork:false"
+  max_candidates: 2000
+  per_page: 30
+
+filters:
+  max_size_kb: 512000          # 500 MB
+  external_services:           # discard if CI references any of these
+    - postgres
+    - mysql
+    - redis
+    - mongodb
+    - kafka
+    - rabbitmq
+    - elasticsearch
+  max_ci_duration_sec: 900     # 15 minutes
+
+verification:
+  parallel_containers: 8
+  container_timeout_sec: 1200  # 20 minutes
+  runs_per_repo: 3
+  acceptance_score: 0.95
+  acceptance_stdev: 0.05
+
+difficulty:
+  target_easy: 0.30
+  target_medium: 0.50
+  target_hard: 0.20
+
+corpus:
+  target_size: 500
+
+oracle:
+  runs: 3
+  acceptance_score: 0.95
+  acceptance_stdev: 0.05

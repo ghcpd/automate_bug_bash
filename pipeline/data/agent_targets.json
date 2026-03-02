@@ -1,0 +1,6130 @@
+[
+  {
+    "repo": "42school/norminette",
+    "sha": "b19bf64341d776ebbf61951144c8e9f31a5405b0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 515,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "sha": "f1c49a4b48dda8119413808bfe282b4a32edd0f6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "AcademySoftwareFoundation/rez",
+    "sha": "974a77f7646f5c527aff0ddf8a71e04b757e3eee",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 358,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "AdaptiveMotorControlLab/CEBRA",
+    "sha": "b952d023f16ed9c0e33ec2600a0364d76e11a78d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 78,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Acly/krita-ai-diffusion",
+    "sha": "71d8df643e53d061dbbdcd79030aec0a266d82be",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 248,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "All-Hands-AI/OpenHands",
+    "sha": "cecd267ce6bab156ee330835b528958d1a110796",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2194,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Archmonger/django-dbbackup",
+    "sha": "3af92e6ede8156363712ce3a13158c37991502af",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 309,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ArtifexSoftware/pdf2docx",
+    "sha": "fbc1943a89d470a066da73ca90eed1237efdf2ee",
+    "dep_file": "setup.py",
+    "expected_pass": 4,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "AsahiLinux/m1n1",
+    "sha": "996eb036ce956a993fde2010b04315cd0e70da3e",
+    "dep_file": "requirements.txt",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Avaiga/taipy",
+    "sha": "fa41be75f80c6e61b728baf5bff7c0cb906f5052",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "BeanieODM/beanie",
+    "sha": "0f3a7b4eaf676a58b00bed988723a26670234c1c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 471,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "BeehiveInnovations/zen-mcp-server",
+    "sha": "43c401035ccb33240f99ee97cf44f719f5813bbe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 866,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Bing-su/adetailer",
+    "sha": "3a599f5d4607d8f9d8b9fc5a15526197418dae1a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 59,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Blaizzy/mlx-vlm",
+    "sha": "314b2e599772a647b5fd69280dbcca6621b77862",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 201,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "sha": "ed724932c183b5b31fb99b1240c7b20313caaa32",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 34,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "BoboTiG/python-mss",
+    "sha": "0f3bafb94d9122d88c6bc90ce889dc2b7e97b1d9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 188,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Bogdanp/dramatiq",
+    "sha": "fb647452ecfb22aa234b73b37c5745ed61dd26cd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 295,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "BrainBlend-AI/atomic-agents",
+    "sha": "cbc2ff5a7cf84aa27f2ba2d22f1b563a84b50558",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 284,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Breakthrough/PySceneDetect",
+    "sha": "d75833fb2bb1ff70ea48a8841a05de6c65a7aff8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 202,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ByteDance-Seed/VeOmni",
+    "sha": "da14477871c103a211b287e5ae3135a90d0b355a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "CTFd/CTFd",
+    "sha": "bb6c1c5a2fbeaf2c826dbab6c0852d8a1d8d6549",
+    "dep_file": "requirements.txt",
+    "expected_pass": 643,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "CodeReclaimers/neat-python",
+    "sha": "467ac67eb8f055fd02f2e48b772f4b53d80269b9",
+    "dep_file": "setup.py",
+    "expected_pass": 510,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "CorentinJ/Real-Time-Voice-Cloning",
+    "sha": "865eba8826bb6d76721a9d828a546724779c23ab",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "D4Vinci/Scrapling",
+    "sha": "1f5a7d5d2c448e3a223eb04ca9ffaf5b86a48755",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 379,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "DLR-RM/stable-baselines3",
+    "sha": "4932de56a383ccd41bd753249fd82b9238d00d16",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 874,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "DavidoTek/ProtonUp-Qt",
+    "sha": "151e09fcbe40c09186568b03edccd433b0342e1a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 134,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Delgan/loguru",
+    "sha": "8c7d33c4cd349f5b03992973a6b564b01a055359",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1628,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Doist/bitmapist",
+    "sha": "82a58d17371214a604ed8e6ada8036aedbccff67",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 45,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Drakkar-Software/OctoBot",
+    "sha": "c74046630c9c059505e3d519560cdcad2d903ef8",
+    "dep_file": "setup.py",
+    "expected_pass": 909,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "EnterpriseDB/barman",
+    "sha": "98834d7c367c613d785a69702aebab3a423686d8",
+    "dep_file": "setup.py",
+    "expected_pass": 2377,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "EvoAgentX/EvoAgentX",
+    "sha": "558634be632e390a4ba041f3512558e4ae0e4990",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 113,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "FoundationAgents/MetaGPT",
+    "sha": "674f7b20dd44058ee5d68984d55f2767293c8909",
+    "dep_file": "setup.py",
+    "expected_pass": 148,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "FreeOpcUa/opcua-asyncio",
+    "sha": "8f9aa92d3835ad9f47ca785ae73226d5499d91ea",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 715,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "GibsonAI/memori",
+    "sha": "8225b8366de04eb2679cc09f98dfb95955de6a5b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 54,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "GitGuardian/ggshield",
+    "sha": "1f59bdf4e3d49f756dcfe342fab603f0ea9382d9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1530,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Giskard-AI/giskard-oss",
+    "sha": "6b12803fc3c4751071fa8d61ff268052662b6af0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 335,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "GrahamDumpleton/wrapt",
+    "sha": "1332d2dd7c52a8796b951e1ce3f248e7ef931dc3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 563,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "GreyDGL/PentestGPT",
+    "sha": "c93296f05cf61854726733c3cdaee7cb196626e5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 112,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "HIPS/autograd",
+    "sha": "927816170ea4eead86bd5c9584a292ec27228a22",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 599,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "HKUDS/LightRAG",
+    "sha": "204d631243786a2fed2aa1b6302fee96bcce0f97",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 91,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "HisAtri/LrcApi",
+    "sha": "17763c0ad5d6d32e71e3454bfa2e875af564699a",
+    "dep_file": "requirements.txt",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "IBM/mcp-context-forge",
+    "sha": "1849bf056ba51f1f12eb792ca3829902e4e8713e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Instagram/LibCST",
+    "sha": "2dc435f7cf263e98dea9de3e65594e4fc7f2894f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 53,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "JoshData/python-email-validator",
+    "sha": "934541aac96b62d0665bba93f7a2353958b9e53b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 314,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Josh-XT/AGiXT",
+    "sha": "a856396804bac12157c9cdab19c32f8e1912198c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 93,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "K0lb3/UnityPy",
+    "sha": "e473974c16a9e45cd7921233a5a4e1d03dc0b9a8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 35,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kanaries/pygwalker",
+    "sha": "ac18e69afdd4628b6a9245fd07a2a03f22284d7e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kinto/kinto",
+    "sha": "8bbbfde0f5181c55bcbd54fadb1da4a5f79a1920",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2129,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kiln-AI/Kiln",
+    "sha": "a56246430a9cf58e9055ad988c6fd2bef77bdbd3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 418,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kludex/mangum",
+    "sha": "5eecc01f6adb685a38af9968f6bd3b814ed8cb9b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 103,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kludex/uvicorn",
+    "sha": "7ca5cb32430719d2108d5763e27eb3d8657fb48a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 957,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kludex/starlette",
+    "sha": "fd53a8f20bb1560190868359fa39cf07fb776f42",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 918,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Knio/dominate",
+    "sha": "861b57bc0d2b8d97b988f781ac3fa8612eb5b36a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 65,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Koed00/django-q",
+    "sha": "573b8da528c00a1fe8accf959d14e3af4a8f4e2a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 54,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kozea/WeasyPrint",
+    "sha": "87f9b550bbc53b66f2ec3f0eb7b658f0f335cccd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3852,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Kozea/pygal",
+    "sha": "df201932821a8608cd0837c21b5aea3f0b770118",
+    "dep_file": "setup.py",
+    "expected_pass": 4370,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "LMCache/LMCache",
+    "sha": "b82aff6fc30fc871458e12faa30d6f720e0ec780",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 819,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "LedFx/LedFx",
+    "sha": "027907b7f4590b21aac9a75e43da2abbb830965f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 714,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Lightning-AI/LitServe",
+    "sha": "c8b929d84f8b9631ab90a5155af8d1ce70e2f644",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 313,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Lightning-AI/litgpt",
+    "sha": "e8807939c98fb3b8ecbe3e1d822bea11994697b5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 76,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Lightning-AI/torchmetrics",
+    "sha": "b3aadb2942a384b0fc0acd2605f86249525eabac",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Lightning-AI/pytorch-lightning",
+    "sha": "9b1de0feaf4b6dba06ae22efa288bd4add17d669",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MCDReforged/MCDReforged",
+    "sha": "7ed027e422bf78eb3c3c1db241666562287f73ad",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 165,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MaartenGr/KeyBERT",
+    "sha": "d37c4c3064fc64bd04f39eca815cb6f22eb85d0f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 97,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MaartenGr/BERTopic",
+    "sha": "b3827e6ad51bc71d445abd3d7f67c34a05f33856",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 273,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MasoniteFramework/masonite",
+    "sha": "8b106a14fb46a858eb6cebb09dee0c030cc88295",
+    "dep_file": "setup.py",
+    "expected_pass": 603,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Matoking/protontricks",
+    "sha": "856f551c8438c624aa1489cb3670ca8aad567435",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 169,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MechanicalSoup/MechanicalSoup",
+    "sha": "69fd350db04612d04cf2e5724e9688f4b0945cb4",
+    "dep_file": "setup.py",
+    "expected_pass": 143,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Mathics3/mathics-core",
+    "sha": "b0a007055cfdfa0a7fcefac8b4475874d9c466f6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 117,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MemTensor/MemOS",
+    "sha": "dcf8c186fe5dc6d60fc9d488fd65d8b4ee7c15d9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 432,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MichaelGrupp/evo",
+    "sha": "b67b470db871dcc5db3f6bab23cba7898c5d557d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 83,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MinishLab/model2vec",
+    "sha": "1cb6c7951a1842debc286fc806396a195d1e1904",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 209,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Mirix-AI/MIRIX",
+    "sha": "92ebdfc5f8b83fc52edbc160e025a23bdf21b4ad",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 63,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MongoEngine/mongoengine",
+    "sha": "a55722e10281834bb8699f82065874a8b8608436",
+    "dep_file": "setup.py",
+    "expected_pass": 1155,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "MultimediaTechLab/YOLO",
+    "sha": "5d951d40dd1a2963f03998eff337353174c5a4dd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 44,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "NVIDIA/TensorRT-Model-Optimizer",
+    "sha": "52e662dd1de239dccc537d5b41098ad922a00093",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1589,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "NVIDIA/physicsnemo",
+    "sha": "e142949295302ed4ac2b7b99f4fb70af1a82328f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4136,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "NVIDIA-NeMo/Guardrails",
+    "sha": "e5dbd945f27fbcdcea66a4514af7b4828c8a1fd4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2889,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Neoteroi/BlackSheep",
+    "sha": "248df165c55d5424033b8a963fd6c84f8a492dc6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1862,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Netflix/lemur",
+    "sha": "b772d0ea1338f944d85dfb433f4d3c7141b21ade",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 818,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Netflix/metaflow",
+    "sha": "1559be9d93156b8dd2fd819d4bca20b7d2f1cdf5",
+    "dep_file": "setup.py",
+    "expected_pass": 22,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "NevaMind-AI/memU",
+    "sha": "71e265ed4935037375fad411e139b215555aef46",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 76,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "NovaSky-AI/SkyRL",
+    "sha": "cc5c5fb8d02a656e3c9d4127158e8febf7062eb1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 475,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Nixtla/statsforecast",
+    "sha": "68314af7073b791788f77ab9d516d3fff04eb72f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 38,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Olow304/memvid",
+    "sha": "7be69c6a88640e1f94ae1ed6c08a2e01c6a66f02",
+    "dep_file": "setup.py",
+    "expected_pass": 336,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "OpenDCAI/DataFlow",
+    "sha": "0fac77ee66d1b669fb735534f365e10403a1be09",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 23,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "OpenDroneMap/WebODM",
+    "sha": "c5d2712a3ce43ea1eb8890b3eeefe01066fc9723",
+    "dep_file": "requirements.txt",
+    "expected_pass": 50,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Parallels/rq-dashboard",
+    "sha": "c731bc03c70f42bf1ba3db77e53a40df9298d408",
+    "dep_file": "setup.py",
+    "expected_pass": 17,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PrimeIntellect-ai/verifiers",
+    "sha": "06c9ec00efbfb7e7f3b4a9b530ccd80d71dd094d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 651,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PreferredAI/cornac",
+    "sha": "d94ed5ae8a26557ffb0684b34123107e11f38caa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 140,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PriorLabs/TabPFN",
+    "sha": "ef1c9784f123a3bc78653f9016726a8744327e0c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 669,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "sha": "4de499f719aa384d6cc94a8109a2933eb6dac970",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 57,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyCQA/flake8",
+    "sha": "9d75094913570f2c676cf19e5cb1d58838246500",
+    "dep_file": "setup.py",
+    "expected_pass": 466,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyCQA/flake8-bugbear",
+    "sha": "0aa9292905ea2a558b91e532c6badaecf75f2398",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 77,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyCQA/isort",
+    "sha": "b5f06a7b1d53b7b561f00f40f814ef1698864bac",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 546,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyCQA/pycodestyle",
+    "sha": "8b530596edc932c5652da3d8771b42f0bb506dce",
+    "dep_file": "setup.py",
+    "expected_pass": 773,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyMySQL/mysqlclient",
+    "sha": "a417303a0597113d2299f63c04f9055e09950ee1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 102,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyWavelets/pywt",
+    "sha": "bb3152d1514f1be44a01fa5f5c8a131e31c5f525",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 808,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "PyDMD/PyDMD",
+    "sha": "7bba484f9e323b407d598d99d094567224639f06",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 648,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "QuantEcon/QuantEcon.py",
+    "sha": "ecc5e9cb332ebde725cda589e58f72be0f7cf015",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 569,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Qiskit/qiskit",
+    "sha": "0edab79f3c9c1477c7b8e6027c0ea53523cbeb2a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 39,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Rapptz/discord.py",
+    "sha": "5d10df92bee6831472e04eaeb4c341d83621622f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 282,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "RasaHQ/rasa",
+    "sha": "eb1e5d42c14c674a27f79f1dcdc69ca91c3bd04a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 22,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "RhinoSecurityLabs/pacu",
+    "sha": "0ebeb9c26cc4fed1d281cfeaaa0b292aa9126593",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 53,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "RobotWebTools/rosbridge_suite",
+    "sha": "0c1c063df5a6783fbb1c66a2185dda003844ce9a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 107,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "SYSTRAN/faster-whisper",
+    "sha": "b347430ebf9603949e13507b0d349d2dcc8fa27a",
+    "dep_file": "setup.py",
+    "expected_pass": 20,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Sceptre/sceptre",
+    "sha": "bac2882e994d37e7784d3a7cde2237f8fb07a429",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 753,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Screenly/Anthias",
+    "sha": "cd205a16ec3753deca77ec49f928763c13bb712e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 20,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Skyvern-AI/skyvern",
+    "sha": "a5205598565c0b4d9fc5f3c3e3e8313cca9640cc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1012,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "SoCo/SoCo",
+    "sha": "95c28f3b879d5df7d24f01de2688588045f3669b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 238,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "StackStorm/st2",
+    "sha": "7d20478658b8544c4b10548c37eb9101175b8285",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Suor/django-cacheops",
+    "sha": "0f79f79ca2968bf99539f4ee9abc906202e11478",
+    "dep_file": "setup.py",
+    "expected_pass": 157,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Supervisor/supervisor",
+    "sha": "0137efe791295f66825183d7f7609de50197a46d",
+    "dep_file": "setup.py",
+    "expected_pass": 1400,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "SwanHubX/SwanLab",
+    "sha": "afe06a49fbfb7b4f99fc25463d3a9fb44960d8b1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 500,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "SylphAI-Inc/AdalFlow",
+    "sha": "91c042435f40a7c7e2ad1db75b0a32d10776fc29",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 543,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TagStudioDev/TagStudio",
+    "sha": "2ca8122b8387c6d2e534343a2ef7870576685c40",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 231,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Taxel/PlexTraktSync",
+    "sha": "9871e549cb8063e3200bd7377768a5444883f44c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 19,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Teemu/pytest-sugar",
+    "sha": "54ec9991e1e6e57a6fa4d70e5094797f6dc72f11",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 86,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TheAlgorithms/Python",
+    "sha": "678dedbbf94be54b3c9c258368e28bb8e7736d62",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2324,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TheR1D/shell_gpt",
+    "sha": "4ea2f834cff5dc020dabb25bb02030c630cd2062",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 29,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TorchIO-project/torchio",
+    "sha": "3752b4e84f6a30a4c26eb6df99705ac1c0e98afc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 585,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TracecatHQ/tracecat",
+    "sha": "2d8a6665abd33cb4e2ec81b4dcb2287e4ae45e60",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 104,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "TransformerLensOrg/TransformerLens",
+    "sha": "2e7ce0500575829b99c3335514d7b059495fb095",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 693,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "UKGovernmentBEIS/inspect_ai",
+    "sha": "8c15643b918e34a42db1fb7535dae631720defaa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 135,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Trusted-AI/adversarial-robustness-toolbox",
+    "sha": "23539e2c06045d78594b6b6da533eed57967e410",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Ulauncher/Ulauncher",
+    "sha": "02ab2e6ca9d0e1e5fbbb7f129fe159aeca72448d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 121,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Uberi/speech_recognition",
+    "sha": "dff475841c2625af2df1ae07e09db50e478c5d06",
+    "dep_file": "setup.py",
+    "expected_pass": 49,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Unmanic/unmanic",
+    "sha": "db5444d0d42947945827bd10997f5b518bc678b9",
+    "dep_file": "setup.py",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Upsonic/Upsonic",
+    "sha": "2dbedb30fd3fa18e55f638383dbec567d0ddce90",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1363,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Vincentqyw/image-matching-webui",
+    "sha": "650ebc2da73011939dcfb12fcf0e4d8d7b45580a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Yelp/detect-secrets",
+    "sha": "50119d658ab48021cad234fc5c8d3253263b2ec0",
+    "dep_file": "setup.py",
+    "expected_pass": 1033,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Yubico/yubikey-manager",
+    "sha": "4429fb42126a0660bf88314c685ceeadd4acb493",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 134,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "Zipstack/unstract",
+    "sha": "40528b51ee2cde3d9df837253f5e306b3e49f9c0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 66,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "a2aproject/a2a-python",
+    "sha": "5bfccf9d986c7118916a866cfce4905e257ea418",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 920,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "adamchainz/django-cors-headers",
+    "sha": "986f2ee92f77e784ceaf3ac493c7d28566d40625",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 82,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "adamchainz/django-upgrade",
+    "sha": "97a600d6fa584301c28c6348fdead9fee0c56453",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 978,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "adamghill/django-unicorn",
+    "sha": "996942df45cf9402a863b600692ab0a5cdc9ea75",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 448,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ag2ai/ag2",
+    "sha": "88cd7a513af1ce91b4fe32547c8679ae43cb2179",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2759,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ag2ai/faststream",
+    "sha": "b8b823ac0c427d3d9cee40842d70514eb6bc1d8b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2910,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "agentscope-ai/agentscope",
+    "sha": "29a7cdfd48c08fbab9534b7351ab813fb419ff24",
+    "dep_file": "setup.py",
+    "expected_pass": 356,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "agronholm/anyio",
+    "sha": "0320d0589de99d6d7fd48a6207b4e8eebab9b97a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3129,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "agronholm/apscheduler",
+    "sha": "0ddc30a45b439f1cd869af6ed6f47b92d07e34c3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 855,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "agronholm/sqlacodegen",
+    "sha": "94878f990137288de829a8ade204347d44871586",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 149,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "agronholm/typeguard",
+    "sha": "67cae3dc3b3984a1a0e87389937fe118ed6b4328",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 513,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "aio-libs/aiobotocore",
+    "sha": "47226690c04bc8ed114d61d610480013f22cbc77",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2140,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "aio-libs/aiomysql",
+    "sha": "1aa9cfcbad60f14f5a8bdccaa660f10f69123015",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 979,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "aio-libs/aiopg",
+    "sha": "54a0c37e0e964514270e88dbe5e036d572ca74f5",
+    "dep_file": "setup.py",
+    "expected_pass": 1438,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "aiogram/aiogram",
+    "sha": "34528c95d58b509936c858ace6a0ef43cbe36097",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1737,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "akfamily/akshare",
+    "sha": "491900b301cd56ab530dd4a0ff6fb442e65c9721",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "alanjds/drf-nested-routers",
+    "sha": "eedd5de1892713c3af384a05e50117fe56bf5139",
+    "dep_file": "setup.py",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "alexmojaki/futurecoder",
+    "sha": "2a575ddab8279cd29b35dc529c7d57754f34d5bd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 10,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "alisaifee/flask-limiter",
+    "sha": "ee674b73a17e910c536d91031d233ce34b0f6d80",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 134,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "almarklein/timetagger",
+    "sha": "681720d84c94be660f30947db4b23e52d36cbe32",
+    "dep_file": "setup.py",
+    "expected_pass": 43,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "amanusk/s-tui",
+    "sha": "270c8cdfcc163a307358bbb7b2239533cf7bc25a",
+    "dep_file": "setup.py",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "aminalaee/sqladmin",
+    "sha": "2f7bda56b2e43a2d52ac9f53d7428a3e115ce907",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 235,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "andialbrecht/sqlparse",
+    "sha": "897eb2df8c0608b9ee4682e9728f669adf13595e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 479,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "andrewyng/aisuite",
+    "sha": "d20778da7fc1e9f536a73218a78929f4cfba7207",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 197,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "angr/angr-management",
+    "sha": "0406a321d5835ba6bd49af040c1253871581f830",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 44,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ansible/ansible-runner",
+    "sha": "27b75ed8adf3ba86aabbecfe43c929c13579877d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1958,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ansible/molecule",
+    "sha": "e10ab995f9b44e7359b486747a479826f8f13441",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 803,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "anyoptimization/pymoo",
+    "sha": "4f60a877d64bb2cedffb070c1d087d5ab64963be",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 593,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "apache/cassandra-ccm",
+    "sha": "0b19c8eef37db2e11ecf5b27c42c883be88830ce",
+    "dep_file": "setup.py",
+    "expected_pass": 24,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "apiflask/apiflask",
+    "sha": "958c85fbfd6efb9c3d476e23ef86f4ef15e7fd48",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 497,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "apache/burr",
+    "sha": "aadeddfa5129cd31874220702431b7a614203bb1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 426,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "apify/crawlee-python",
+    "sha": "da33a158a00f07f56d4bae2244ed1c3973549376",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "appium/python-client",
+    "sha": "3c33eae0ed5e5c2c555fd02e4a011c4377a1103d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 172,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "arcee-ai/mergekit",
+    "sha": "b008a72a8c02b0a287e201534df72aa955175919",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 73,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "archlinux/archinstall",
+    "sha": "3447d2f47d44cfa2b0641200061f61867eb81754",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "arogozhnikov/einops",
+    "sha": "451e16ff3ebf184db23cdbd73a839acb3039dabb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "arrow-py/arrow",
+    "sha": "09277c1c2f3ddf6e08671e17874695a3fd5b4b2c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1943,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "art049/odmantic",
+    "sha": "26e45046cfd780b0616abea25f0672de25a4a7dc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 660,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "arviz-devs/arviz",
+    "sha": "9e3b59479bd88cc2aa1087601f493d88bafc9130",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "asottile/pyupgrade",
+    "sha": "369aea6489e38ca74a18df494f191857ba484950",
+    "dep_file": "setup.py",
+    "expected_pass": 1011,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "astral-sh/ruff-lsp",
+    "sha": "81af2ad7aa99ee5ec24ee7aaf16d7269d89b69af",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "authlib/authlib",
+    "sha": "0da617c961679065e800da5b829e2a29024ba0f8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 314,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "authomatic/authomatic",
+    "sha": "e9bdbbb86159daacfa043c42938b89c296f5d6a8",
+    "dep_file": "setup.py",
+    "expected_pass": 5,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "automl/SMAC3",
+    "sha": "c208e53ee4eabb9bf4b9b5546d8f5225f1c70648",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 255,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "autorope/donkeycar",
+    "sha": "cde8bbe9e82d81819eab9bfb3c034b201be57268",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 154,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "autoscrape-labs/pydoll",
+    "sha": "e30aee76af9f3bcf2f5e5141ccdfacc8fb2e749d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1894,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "axnsan12/drf-yasg",
+    "sha": "cc306f4575fa1b0e9ad6be81c58807815798a7a3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 98,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bashtage/arch",
+    "sha": "c7a2eb749354079358bd9bc5384e2f2d01a8ee14",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4408,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "basetenlabs/truss",
+    "sha": "43e1790098454c5a993d4510013c6d02a2c5fb33",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 944,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bashtage/linearmodels",
+    "sha": "67d666b1a479bc0d2f7100fcd9c38a660d9c7b43",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12225,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bayesian-optimization/BayesianOptimization",
+    "sha": "25084fed0b015b94ae6712bed45c425e57116ca0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 169,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bczsalba/pytermgui",
+    "sha": "7aeb3df52056eef372b0b94e705e0e6dbb02d279",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 63,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "beancount/beancount",
+    "sha": "318fa7ab9e885eb58b601b317866a03bf31db25a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 728,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "beancount/fava",
+    "sha": "95b26d0dee47d4780a3fdd809f9c3cfe03a4e881",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 460,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "beartype/beartype",
+    "sha": "cc57c8311974bf9ce8b8567c7ed05aec856a7827",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 416,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "behave/behave",
+    "sha": "940fbf5b38a7949ab50e33de5b028f9cb923461f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1636,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bennylope/django-organizations",
+    "sha": "9d4b090edbf9be2ccaa231359b65f6b44e448dec",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 118,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "benoitc/gunicorn",
+    "sha": "d606336de42c5449785358b0f20e06c6fc115317",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1383,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bespokelabsai/curator",
+    "sha": "2b1904edd4f5381e3e8f97d06b177797e621c74b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 114,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bghira/SimpleTuner",
+    "sha": "082a1fc461b73b87d1ba05fceac17af80c6c9b25",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 939,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "blakeblackshear/frigate-hass-integration",
+    "sha": "ebfe86dd5738e88a7cd4cf1c6b0ea45ccd016ab8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 278,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "blazickjp/arxiv-mcp-server",
+    "sha": "0065f5abb48f3eb4e011a130dd63fc52b381a1d2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 32,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bloomberg/memray",
+    "sha": "6ebe067a4b1d45abfc2011a1790dab4dac085c97",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 636,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bookwyrm-social/bookwyrm",
+    "sha": "c7ba782f45d85e4b337e67c8af5486393a64e08a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1193,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "borgbase/vorta",
+    "sha": "32a3684c79654e0cb523636a59da3f68edd73a09",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 184,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "boxed/mutmut",
+    "sha": "553eead055871b554e8d6b1a3cda3b128d4c277f",
+    "dep_file": "setup.py",
+    "expected_pass": 179,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bpython/bpython",
+    "sha": "89e2f64050cda18f95d56141c3b9cac3a5a609f9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 325,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "brainix/pottery",
+    "sha": "f23f3b2ebf3895252f79c64cfdbdc0a0b3c20229",
+    "dep_file": "setup.py",
+    "expected_pass": 323,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "sha": "032f1475cb57cec5661e1972de79035f336a3f80",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bruin-data/ingestr",
+    "sha": "0c6e52f44f385a15111bfac184bc5fd27c5e168b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 593,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bytedance/deer-flow",
+    "sha": "a1f784b2a4c089f33e53e99e544776fda3c52aef",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 11,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "bytedance/trae-agent",
+    "sha": "e839e559ac61bdd0e057c375dd1dee391fee797d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 62,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cantools/cantools",
+    "sha": "b57f3f4429800ea111c2bdebc70feb7b3e6c55dc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 401,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "camel-ai/camel",
+    "sha": "ceb5ef8434ec4bb650982e4f4a4c068a6f834521",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "capitalone/DataProfiler",
+    "sha": "1236c7b4d6e3f43f61383a1f05b6ec6fe4c5a9c8",
+    "dep_file": "setup.py",
+    "expected_pass": 1166,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "caronc/apprise",
+    "sha": "1401205a8d4fa57725e0212d50479a76d6047f37",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 839,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "casbin/pycasbin",
+    "sha": "651a35242dd80936de0049595684f93fcc92d8dd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cartography-cncf/cartography",
+    "sha": "1873eb64fff7fa8f1adca387f4e19472d06a97a8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 662,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cdgriffith/Box",
+    "sha": "8364ce582dd4b4ff0d753e3efffa4b8675e809bc",
+    "dep_file": "setup.py",
+    "expected_pass": 159,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cdgriffith/FastFlix",
+    "sha": "73603f75c9477ee6f4e9a62e05e42522c9d58e8c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 425,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "celery/django-celery-beat",
+    "sha": "ffa0405f9c35e9f04a65cee880a607806321f6e6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 128,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "chaiNNer-org/chaiNNer",
+    "sha": "2ca3b7939f5b68880dc48275314c82bb8bcc2be7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 96,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "chonkie-inc/chonkie",
+    "sha": "091251c3ee65cbec784e9236e5fe96435b3781ea",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1148,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "chipsec/chipsec",
+    "sha": "7333fd8713c72512cc155c382cafddc1c19f76fa",
+    "dep_file": "setup.py",
+    "expected_pass": 293,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "chrishayuk/mcp-cli",
+    "sha": "da7e5acbb9bb5224978a81d605969d3d6a94ee96",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1027,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "claffin/cloudproxy",
+    "sha": "fdd441053e0fd668551d2d0aab26b82382a0f76d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 284,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ckan/ckan",
+    "sha": "df12c384e1ad32b93ff0edcae82689deb2f4ce27",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 261,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "closeio/tasktiger",
+    "sha": "6cfa9a216b673234a81a24ace44fbf993e3da645",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 183,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cloudtools/troposphere",
+    "sha": "8ac597ca743c1606e6f001053262f1cc3bb5adf5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 562,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cocotb/cocotb",
+    "sha": "07777074f656ff676eea28d1c0d5616ee1195cd7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "collerek/ormar",
+    "sha": "be5e28810d091660fe6405fe8ab5b563d932cd3b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 84,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "comfyanonymous/ComfyUI",
+    "sha": "185100c922b415807895b3f3150409b2ad414bc4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 588,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "commaai/opendbc",
+    "sha": "8b4b2f5d9d2aa49d53682e25044145d1c40ed70a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4528,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "commaai/openpilot",
+    "sha": "a96e78bc5e944bd5aab98e1dce0f688b8a7b1ba3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 839,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "confident-ai/deepeval",
+    "sha": "15a9d4242171a55bc8a6814fdef2839f330eb24d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 37,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cookiecutter/cookiecutter",
+    "sha": "a2116d6b40ebdb6b78a4a13b5e02cfbea46be93d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 380,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "copier-org/copier",
+    "sha": "71e5762fb0fbb88a4289ddf2012e1949b01757c8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1018,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cpplint/cpplint",
+    "sha": "c72387f10790d3d4b2ca5914011fc1b6045d3fcb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 225,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "crossbario/crossbar",
+    "sha": "99392515763090c2235abc2c6e942d7bc44cea2c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 251,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "sha": "388de2252e532f6f138f6fe0eca2d63df0553ebe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 356,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "crystaldba/postgres-mcp",
+    "sha": "07eb329c8c48e49640e0d1b5b35465d4d024c3ee",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 206,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "custom-components/pyscript",
+    "sha": "2ecddf45728f0daa1200f09b0c74cfe17c6ea0a4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 134,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cve-search/cve-search",
+    "sha": "c30d9c05288295fbe68454523423abea7bfded52",
+    "dep_file": "requirements.txt",
+    "expected_pass": 35,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "cvxpy/cvxpylayers",
+    "sha": "76b795e69246f2aede56f3cbe4c32452375b85a5",
+    "dep_file": "setup.py",
+    "expected_pass": 154,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "darkoperator/dnsrecon",
+    "sha": "230eb5aaf91c42b49e33f3bfc82cfeeeec75bbe0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 53,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dask/dask",
+    "sha": "93738752fbec9a15ec845fe79113a449cbe195c8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 269,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dataabc/weiboSpider",
+    "sha": "720d52a58aeff3bdafdc552b90443842ebb94ba7",
+    "dep_file": "setup.py",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "daya0576/beaverhabits",
+    "sha": "665568245ef52e24b1c76f1f7bf3bada884202de",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 48,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dbcli/litecli",
+    "sha": "7848e00e7b224e77f514bf76508653dd495ebc15",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 227,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dbcli/mycli",
+    "sha": "e92ee974d9486a90f650db29d349bafd00e1aa29",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 387,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dbcli/pgcli",
+    "sha": "d0a6cc2fe35186bc9616ecc61b5679ca7ee78b1d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2672,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "deepfakes/faceswap",
+    "sha": "4c2092623d7b88739345e4c8681d24866c0cc162",
+    "dep_file": "setup.py",
+    "expected_pass": 802,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "deschler/django-modeltranslation",
+    "sha": "5282f5a1b84a3c25dce6d0e1cc695e752aa93e6f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 159,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dfm/emcee",
+    "sha": "a06271e8719166d95c3f785eeca465931c393d05",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 128,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dfir-iris/iris-web",
+    "sha": "e6e6d797ee29be261b699b8c64c425e89959c1dd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 48,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dgilland/pydash",
+    "sha": "3585eb29018ea1535e7df4e10b33df68bbffcf9e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2228,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dgtlmoon/changedetection.io",
+    "sha": "f9048af6e834f70fc183e8dcee36eb4e740a6278",
+    "dep_file": "setup.py",
+    "expected_pass": 402,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django/asgiref",
+    "sha": "f41c0c77cc9502dae68e2b8cb84a5171e9e687f7",
+    "dep_file": "setup.py",
+    "expected_pass": 92,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-commons/django-prometheus",
+    "sha": "ea2d559476675a688f82cc37fac22b796ec7bcba",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 28,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-extensions/django-extensions",
+    "sha": "2b8a8c952443d82abf28243674e4b73825489502",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 520,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-guardian/django-guardian",
+    "sha": "664f9ca34746f544cb140ec5d855e574d4f4c2a2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 404,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-hijack/django-hijack",
+    "sha": "8e6ff6b6236d9c89d522af4896a161bbdbd9bfdb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 77,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-json-api/django-rest-framework-json-api",
+    "sha": "7ceaf93a54b36a33bdd5fcdb5c8c0ed1cf505946",
+    "dep_file": "setup.py",
+    "expected_pass": 378,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-money/django-money",
+    "sha": "60d8862c1bad6f59e6b1a4aad58bab08b5dff5b1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 497,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-oauth/django-oauth-toolkit",
+    "sha": "766834bc1dfbeabff68ee3b46fddef9f7c0db9d8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 528,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "django-oscar/django-oscar",
+    "sha": "eeb5a7dd4af447f5fa9b08652e9a256bca326a56",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1682,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dleemiller/WordLlama",
+    "sha": "ee2b5302451da15cce7bada82a7a44ee238e0eef",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 51,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "docker/docker-py",
+    "sha": "2339d3ed96f61f3735530bc655fbe2e1b2886af0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 608,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dooit-org/dooit",
+    "sha": "4d9ca4c41ec0775a41781bb2a8ac2ca5643fe816",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 81,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dosisod/refurb",
+    "sha": "2fd5fe077fd4f5261a417da21e120e148259e303",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 144,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "doronz88/pymobiledevice3",
+    "sha": "45f11eecb7f11f3f27f7325628cc5dba72bf047a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 56,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dottxt-ai/outlines",
+    "sha": "d2481885383faa20f78ac266f3c3ac45cf24e59d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 576,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dry-python/returns",
+    "sha": "b640e23aa1bb29023d62a324178aa00272245c39",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1110,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dstackai/dstack",
+    "sha": "8cd5ec18c0cc50acbab561009ffeac969758a655",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2545,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "duckdb/dbt-duckdb",
+    "sha": "997a0d52da223c8be9677743e252dd761b619138",
+    "dep_file": "setup.py",
+    "expected_pass": 244,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dynaconf/dynaconf",
+    "sha": "d27e02e17d52842c11e18ae10a460c96526d2101",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 675,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "dynamiq-ai/dynamiq",
+    "sha": "00db7e021457f74de69fc827db24f2987501ddb4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1257,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "e3nn/e3nn",
+    "sha": "2aa7f58440a06b15352a2cbce01fa4c26f824969",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1314,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ebroecker/canmatrix",
+    "sha": "f905b5602fd0e34f56340d75f7dec15d31d80830",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 330,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "elevenlabs/elevenlabs-mcp",
+    "sha": "0e4f15c94e4d85ccb7fb22d17bde8c5e31705b4f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "elevenlabs/elevenlabs-python",
+    "sha": "15e6f1591f93996de76637d787f7d89498a0d111",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1049,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "embeddings-benchmark/mteb",
+    "sha": "0cfd3e67770e8c7c2be292ed58c0abb23b8b69a7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "encode/httpx",
+    "sha": "631e9fefa2e602c7d38f74ae4a4138f67f14fd38",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1418,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "enthought/mayavi",
+    "sha": "2cf91a40fb4d584a454e3b9f1c9fb6a7d9fed2e5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 303,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "eralchemy/eralchemy",
+    "sha": "015b052dfc02198054c253e1465353116e90fe9e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 68,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "erocarrera/pefile",
+    "sha": "39a7d548b2165f933360d9f6d1a5d5104127f671",
+    "dep_file": "setup.py",
+    "expected_pass": 368,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "errbotio/errbot",
+    "sha": "5489ec5e20829d5f6d592afe21a45efb564f15a4",
+    "dep_file": "setup.py",
+    "expected_pass": 218,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "eternnoir/pyTelegramBotAPI",
+    "sha": "9665cfa0a7a460e3ec208c28c6b89a71d1e32959",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 39,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ethereum/consensus-specs",
+    "sha": "a21e27dd861e770368df3a16e393efe1ec2e0efb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 94,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ets-labs/python-dependency-injector",
+    "sha": "334a9b186d75970debc6f06c8d9913b66a12e226",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1330,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "evansd/whitenoise",
+    "sha": "505ed8d28d34307606ba6ed9ac7740c7c0701955",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 128,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "evalstate/fast-agent",
+    "sha": "78442aaa573c015a62ef1257aa519fcf48a2636c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1662,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "evolutionaryscale/esm",
+    "sha": "60bb1d19ecd393be0e687a8f4dce46646085012c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "exo-explore/exo",
+    "sha": "daf2f9f48e8e316acf526fc8ce3d1a3e33dc9d0a",
+    "dep_file": "setup.py",
+    "expected_pass": 222,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ezyang/codemcp",
+    "sha": "1ebdb61755c33a420332e6ff73f9fd1c1254d721",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 147,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "facebookincubator/submitit",
+    "sha": "ca51a66b6da2400468f338133eabdfb4c9a2936c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 125,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "facebookresearch/fairseq2",
+    "sha": "1d050dd04f2fe61bd8027bd4a471dc569b1e2fa8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1030,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fairlearn/fairlearn",
+    "sha": "e56c65dd1e2feaa362948463861980ef863c3f93",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6812,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "farizrahman4u/loopgpt",
+    "sha": "47c32a2fb76fe4fa9237882b2cae4808a21f74c4",
+    "dep_file": "setup.py",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "farrokhi/dnsdiag",
+    "sha": "d2ba23ca1c681a21113704384b8a6c7cebe735eb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 96,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "falconry/falcon",
+    "sha": "5c36e72e099fea22d0f5b35db87242bcb7473ddb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 20,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fastapi/typer",
+    "sha": "9d410a2e38fdef70fbc0eb79f135ba607199be37",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1164,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fastplotlib/fastplotlib",
+    "sha": "9a2b08e1e9be260ed9d02df340c2cbaed8730153",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 175,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "feeluown/FeelUOwn",
+    "sha": "d5258c6a1b41cdd8167708071077c43688b0b1e9",
+    "dep_file": "setup.py",
+    "expected_pass": 225,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fgmacedo/python-statemachine",
+    "sha": "04bf5ecc84682aaf25a255f7387422459dd3e336",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1325,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "firebase/firebase-admin-python",
+    "sha": "d11b211739f69ed384516e4ed63de7f7ff6a895f",
+    "dep_file": "setup.py",
+    "expected_pass": 3812,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fixie-ai/ultravox",
+    "sha": "69ddc63b2d72be5e9a86f818315da72cec55a876",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 81,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "filipstrand/mflux",
+    "sha": "9e82968c1bf81e8157fbafcd7ebfb4d450a5b1fe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 381,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fla-org/flash-linear-attention",
+    "sha": "4b48d04bde2ff57aac3dd2de73f446b427e183cc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "flaskbb/flaskbb",
+    "sha": "9aad30640a93a213b2f1888899f31b7d0ea4f334",
+    "dep_file": "setup.py",
+    "expected_pass": 232,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fortra/impacket",
+    "sha": "8728bbcfeea07cc0eaa1b473a7eab03281378fa3",
+    "dep_file": "setup.py",
+    "expected_pass": 456,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fpgmaas/deptry",
+    "sha": "c6745c399d8b896acfe952c724c686320eda53a8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 161,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fossasia/eventyay-tickets",
+    "sha": "848cc8f4022b2d2ad402514147942ac813c88b0d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 36,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fsspec/filesystem_spec",
+    "sha": "90bcbba391bddef400dde62e03c2eea9a2bdbd3d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1845,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "fugue-project/fugue",
+    "sha": "7feb6f8579ff8b25c650d694d46a8af554c6cba3",
+    "dep_file": "setup.py",
+    "expected_pass": 902,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gautamkrishnar/socli",
+    "sha": "ec15f5b2888a2932ed9791c7dba57565e9524815",
+    "dep_file": "setup.py",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gawel/pyquery",
+    "sha": "ce3ad507fd89c581bdd7aa086e96590e1f124277",
+    "dep_file": "setup.py",
+    "expected_pass": 149,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gboeing/osmnx",
+    "sha": "415c80d880e1ba21011d29afe3d12a81a4eacf78",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 15,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "geatpy-dev/geatpy",
+    "sha": "75ddfd62f2c7e550a5b08a368f40231482a67137",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "galaxyproject/galaxy",
+    "sha": "128f5d51d843f556cc645a2bfe4cd5a893bf62af",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "geigi/cozy",
+    "sha": "0e602a3bcacfd3c396ec0f93b63246972c608949",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 137,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "getnikola/nikola",
+    "sha": "d8d94c047cdc1718700f0b5d00627722241be68d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 516,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "getsentry/responses",
+    "sha": "cc53d778e2adf7a060f1eb04bc5c107d49d4d1a9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 223,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "getmoto/moto",
+    "sha": "c233a61769fb952aed8efd72854e97627ab6298c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 11292,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "giampaolo/pyftpdlib",
+    "sha": "9167dea23607bfb599abc339641a4e4dea0ee712",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 734,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "giampaolo/psutil",
+    "sha": "e5c4bb0a5b6f90fd72731c00d7fdb271cbdd1fd6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 415,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "git-cola/git-cola",
+    "sha": "f7804e169000fd79eeb7883080358e54cb9bf053",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 321,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "globocom/m3u8",
+    "sha": "4eacc649723517878e8e964503cdb3bc408b37a1",
+    "dep_file": "setup.py",
+    "expected_pass": 273,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/adk-python",
+    "sha": "37d52b4caf6738437e62fe804103efe4bde363a1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4511,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/budoux",
+    "sha": "3295170e0a8d6ad1e3c12d740d606922f5534d7b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 70,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/computer-use-preview",
+    "sha": "d210ca1f56daa1ecf6d3392c957ac4e6e950da68",
+    "dep_file": "requirements.txt",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/langextract",
+    "sha": "f5d0ca678d63d3a0dd677f9031a9dfb32986ede8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 391,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/timesketch",
+    "sha": "5880aa12a6e262702d06045528105fed3282f064",
+    "dep_file": "setup.py",
+    "expected_pass": 512,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google/vizier",
+    "sha": "373b5817933d1048a1fd109f50ea80c76ddf98ce",
+    "dep_file": "setup.py",
+    "expected_pass": 615,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-deepmind/concordia",
+    "sha": "6718a0cc5723f7f11dff0ed810165b49e0f7a570",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 249,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-deepmind/gemma",
+    "sha": "7c0ef7284ff87986817fe35ca73d1949253f9dff",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 108,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-deepmind/alphagenome",
+    "sha": "e6901f1589697481a351c5a3776bbc42afbc35a2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 17139,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-deepmind/rlax",
+    "sha": "09e66569d762275b3184152f3be023034054cd4b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 737,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-deepmind/optax",
+    "sha": "7b4c8579b513291255fef9d78301ff66c3ed4290",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2564,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-gemini/genai-processors",
+    "sha": "91068ae25a66a39bf90eb390231d07317e42766a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 501,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "google-research/torchsde",
+    "sha": "eb3a00e31cbd56176270066ed2f62c394cf6acb7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1625,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "googleapis/python-genai",
+    "sha": "cdd0eb7f0eb86b0db315ac2c110d7129bb4ed2d6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gorakhargosh/watchdog",
+    "sha": "e4bd03089e16f0dcb7da3626ab4d40adc23e4746",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 182,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gpodder/gpodder",
+    "sha": "9354dc3e8de25bb2838e5a677349a7e4c7ccdd5a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 26,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gptme/gptme",
+    "sha": "7f35875b772a7b27f74eb4664d9f697a00289b69",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1810,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "graphistry/pygraphistry",
+    "sha": "63c7b32d2cbeeeb77ec97cbb8c1d50457b851c49",
+    "dep_file": "setup.py",
+    "expected_pass": 1359,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "graphql-python/gql",
+    "sha": "b57afa692e94441a9dd6284c2ef04b95823e6a8b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 817,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "graphql-python/graphene-django",
+    "sha": "bc9f694baba7ab1f5fb779b2be12f8fba2ddee9d",
+    "dep_file": "setup.py",
+    "expected_pass": 405,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "greyli/helloflask",
+    "sha": "83d2e6ba8b1c76e1e25b1afa6e2d4278ffb68dd2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 64,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "griptape-ai/griptape",
+    "sha": "a8d7a11f08b58dac80145749a4dce395efe0e382",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3533,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "gumyr/build123d",
+    "sha": "f7d15c5f15783ca285f4d7ad60b252252abf40c1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 17,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hardbyte/python-can",
+    "sha": "e06659046f078f9373bda5ef240d20426a4390cb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 517,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "has2k1/plotnine",
+    "sha": "f1eb58cda8af165d63332419cfaef29600967fc8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 516,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hauntsaninja/pyp",
+    "sha": "790c3cd7b8d59781f3245beea5b4e8100b871da9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 35,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hegelai/prompttools",
+    "sha": "63bedaa342ffb3000d2fabc1d4ba3d87dd16be16",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hgrecco/pint",
+    "sha": "40936b9441156a8e0260034126a93b553882077b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 101,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hiyouga/EasyR1",
+    "sha": "35cb6f7991bc133fb7e91a722fdd8bc6208ccb49",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 16,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hiyouga/LLaMA-Factory",
+    "sha": "b32b8aca19d903b299a1020a0d3a41d52d07be97",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 170,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "huggingface/datatrove",
+    "sha": "d6a997a2a04902fa5090e6718e0054937cdf1ea1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 126,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "sha": "7ab2011759787f6ba585a4ad96eeada9375bd15d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "huggingface/smolagents",
+    "sha": "32daed233639c4f85565a387cbe85f55813cb71c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 940,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hvac/hvac",
+    "sha": "09902dea41c2c6313cd7844be4d984c1514bd822",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 865,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hynek/stamina",
+    "sha": "ee55f9a5ce434f2ee56095288ac17f2c677c20ae",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 435,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hynek/structlog",
+    "sha": "1c24de65d878b10d9546470e1669b63df413c328",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 905,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hyperliquid-dex/hyperliquid-python-sdk",
+    "sha": "b4d2d1bfde9bfb3411fec3f781e3981b48a1a0c5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 35,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "hypothesis/h",
+    "sha": "4352007938e3183010be073edcc76b54bcb81f92",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4172,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "igrek51/wat",
+    "sha": "2c4075bad4827422f787c555d27adafd847c7061",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 43,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ihabunek/toot",
+    "sha": "bd7235c4c40da06b7c5203bffb3ce8eea95de966",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 36,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "illuin-tech/colpali",
+    "sha": "8d0008ffc234158a03854031e38f03244f7a87fa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 144,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "inducer/pudb",
+    "sha": "b798fd6eba756d80e249d00464f68645169a6800",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "inducer/pyopencl",
+    "sha": "38909adaf264b4c914f6d22845c9120c83a51fa4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 634,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "indico/indico",
+    "sha": "4bc62ab4e5597d42df0db7df9f798a8ef3a68f3f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3174,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "intake/intake",
+    "sha": "67e0303735a60cf0f261e34c68139d0d3aa48c87",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 409,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "intelowlproject/IntelOwl",
+    "sha": "b518c710f77ae1518460a4cc564962183326d6c3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 364,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "internetarchive/openlibrary",
+    "sha": "380b713006e419c44abe6038bd9244310eb1c1bf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2910,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "invariantlabs-ai/mcp-scan",
+    "sha": "be7790f904657f8bc8e3a6ffc85d5bfde6b98f2a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 241,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ipyflow/ipyflow",
+    "sha": "c3e44aa51bd50e0bb9b54c00301300da477234df",
+    "dep_file": "setup.py",
+    "expected_pass": 362,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ipython/ipython",
+    "sha": "8b9f766e137c3df0fa2e46d4929d2e3f5793f9c3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1687,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "isso-comments/isso",
+    "sha": "df0a0054438eda62f50d7ab86228765762719778",
+    "dep_file": "setup.py",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "itamarst/eliot",
+    "sha": "e605f3bf7a6c1c93890b846cd261f3ef96421225",
+    "dep_file": "setup.py",
+    "expected_pass": 470,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "iterative/datachain",
+    "sha": "39491d50377a06908bc289d529fab11b658efacb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "iterative/dvc",
+    "sha": "dcf6f48fb37ca7d90472dedb97de90a7a2e4b084",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3049,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "iver56/audiomentations",
+    "sha": "95a9b0a90b484a75037a74ee8ecd842f38e69293",
+    "dep_file": "setup.py",
+    "expected_pass": 845,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jaraco/keyring",
+    "sha": "81a6f39cdedf626f1103ff401fc48439fbd5ad91",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 187,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/django-analytical",
+    "sha": "69dd23c7977d5fcc81e0e1453befef185413184a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 325,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/django-axes",
+    "sha": "ab2e576fe1f8c56f2810e09fa3882121a0aa545f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 351,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/django-hosts",
+    "sha": "16a73d75ccf5bda17db70d7da820eeafe46ce1f1",
+    "dep_file": "setup.py",
+    "expected_pass": 60,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/django-model-utils",
+    "sha": "52f41d17e89741e9d7dde35d1f0d33be88c06e9b",
+    "dep_file": "setup.py",
+    "expected_pass": 351,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/django-push-notifications",
+    "sha": "a9b29cdf432ab5e0ff831e4b2a83b0516020e33c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 84,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jazzband/pip-tools",
+    "sha": "da14bc6db9c7bb29f38e238de46adc66a4b584f9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1003,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jax-ml/jax",
+    "sha": "7af2286ad3cc16387c8d9403333596e31b5b8514",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1174,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jd-opensource/OxyGent",
+    "sha": "a86d9500ea43b720e9315b15610f924cd0a7f526",
+    "dep_file": "requirements.txt",
+    "expected_pass": 172,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jcrist/msgspec",
+    "sha": "e0550515834412115db3884cefc26350ec8e0cfa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6176,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jdepoix/youtube-transcript-api",
+    "sha": "e5abb9e594d4893395b61b0fa0539960c5a69d55",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 78,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jendrikseipp/vulture",
+    "sha": "01b9ff53d25e17633241a7d0b202d9df02745a99",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 296,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jfilter/clean-text",
+    "sha": "66e3377492a8aa572607d2fd335fb9c85096ddcd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 80,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jhj0517/Whisper-WebUI",
+    "sha": "281242816d2a36db6b3faf26b71b16988d532cc1",
+    "dep_file": "requirements.txt",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jiffyclub/snakeviz",
+    "sha": "39bcc583820675f5f5fd20d6e9ed273e63b0fbfe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jlowin/fastmcp",
+    "sha": "e87ede075cc55a40c465ca11d3fcb00c8a24d314",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4380,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jmespath/jmespath.py",
+    "sha": "bcb40abd1d7560ef892de986e8a553caa922ede7",
+    "dep_file": "setup.py",
+    "expected_pass": 991,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jmbannon/ytdl-sub",
+    "sha": "3b5f9cba58c0d5a67318e2b94e5a529384fd1d66",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 860,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "joblib/joblib",
+    "sha": "80ac74b59d004759e6638da2b18e4d47e60dfdd7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33248,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jmcnamara/XlsxWriter",
+    "sha": "fe0e093e2cf32059f6332e5e9528d91139dbc176",
+    "dep_file": "setup.py",
+    "expected_pass": 1778,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "john-kurkowski/tldextract",
+    "sha": "361f12febf901ef48215d0380551d86c7f0608ac",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 66,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "johnwmillr/LyricsGenius",
+    "sha": "4cc82992632463ed00821698fcab4bf330bbbdd8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 40,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "joke2k/django-environ",
+    "sha": "590f7f2efb9d7d06cdaabf609193d9461f1d1bbc",
+    "dep_file": "setup.py",
+    "expected_pass": 451,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "joke2k/faker",
+    "sha": "5f403be2638b23266e4fc1ed93bbec1b17da3ee3",
+    "dep_file": "setup.py",
+    "expected_pass": 2226,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jopohl/urh",
+    "sha": "1403d92987cc3d01d41aff64250955ce455dabd2",
+    "dep_file": "setup.py",
+    "expected_pass": 342,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jsonpickle/jsonpickle",
+    "sha": "57eeec63e9f9636aa1322569ae99d29d79c369b2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 415,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jtpereyda/boofuzz",
+    "sha": "38460f6403e4073e0e5d28ccbc45cc01fc9fc9d3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 202,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "julien-duponchelle/python-mysql-replication",
+    "sha": "5d2692eff97be0e1f1dbee2b1bc1a5f5043aa918",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 155,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jupyter-incubator/sparkmagic",
+    "sha": "41ff10d366acb68a5567d439b87f2d20fbf8b2c7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 334,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jupyterhub/binderhub",
+    "sha": "28a3f90e5c5b062ec3fcbd182718b8cbcb046198",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "jupyterhub/jupyterhub",
+    "sha": "03a86f43af5c2b52320a72cbedbf1c7bcd9d87c5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "karlicoss/HPI",
+    "sha": "e7f66bc62e29c2ad79b43d9def93d35579a1905f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 122,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kengz/SLM-Lab",
+    "sha": "d3128a8a9c52f4d73671ce4679a830e41fba46f3",
+    "dep_file": "setup.py",
+    "expected_pass": 282,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "keon/algorithms",
+    "sha": "8115abd23fbae0c79053342eaf0e07989f2f5eb5",
+    "dep_file": "setup.py",
+    "expected_pass": 525,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kevin1024/vcrpy",
+    "sha": "9b586631e4131fce906207c40eeb71e41df6c23a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 358,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kevoreilly/CAPEv2",
+    "sha": "0ef1457b6139a4b7cec62786f3fe5d2e54b4a61b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 170,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kittinan/spotify-github-profile",
+    "sha": "b1faee409160358ac1ffb9bb16dab047aac9f3f4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 125,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "koaning/scikit-lego",
+    "sha": "9415f4274a5ba23e5e50145ea60ceffc65d250f2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5744,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "koxudaxi/datamodel-code-generator",
+    "sha": "a40fa35ff4e2a3b5074569d332e5260d1b89f95d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2067,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "koxudaxi/fastapi-code-generator",
+    "sha": "5afcc7b1f01e5367aca5e55fe37009e533fc4766",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 18,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kronenthaler/mod-pbxproj",
+    "sha": "fcc8ed889845ba094b2b002c9c2a3147fb849374",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 252,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ktbyers/netmiko",
+    "sha": "760acdb622be662534a11f60c202092ab77f17a6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 34,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "kvesteri/sqlalchemy-utils",
+    "sha": "5b544439e4c01f2c517db5343f9d7c57a4d72c5c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2688,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "laike9m/pdir2",
+    "sha": "6746b97518e01a568331065b98b19b9dced439c5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 46,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "sha": "e4ed9ba14eccb12845051d3368ad7fb36721c3ae",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1705,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "laramies/theHarvester",
+    "sha": "4fa1431c9b8ff2bfd458ef2d8bc31bf8c8991cd5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 77,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lektor/lektor",
+    "sha": "26396416af666e836c7e5be6bcf9c821a941abf5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1673,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lepture/mistune",
+    "sha": "78e82aae4f6a91bbb47e1063821d87ed540d90e2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 959,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lhotse-speech/lhotse",
+    "sha": "ea2d0b744138c939d788ed74cafba91b04dc50e3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1995,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lightly-ai/lightly",
+    "sha": "357d00f4570ff0db2fa4747cd76123cd4deb8377",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1596,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lincolnloop/python-qrcode",
+    "sha": "316f820d3ea62667d927b99226cbb4a077db0c92",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 94,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "linkchecker/linkchecker",
+    "sha": "42b36e9c186676adc5f3973540607aa345b10bd1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 311,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "line/line-bot-sdk-python",
+    "sha": "37d5caecd75c3c3ce98c733ff522744ac1e99118",
+    "dep_file": "setup.py",
+    "expected_pass": 217,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "linkedin/shiv",
+    "sha": "57e59d3fcf2b299ad2934f8ef3fb9950951f9237",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 59,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "liquidctl/liquidctl",
+    "sha": "a0df981fab81bcc7b362e8de4ba913bb53575f33",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 514,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "litestar-org/litestar",
+    "sha": "2ffef6ff628b7e7df0608d14b7364df70e87c20f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5620,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "livekit/agents",
+    "sha": "4bfae37e305a76158a60d1a4fe1922d5921167d9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "llamastack/llama-stack",
+    "sha": "bd3843d31b00347f917f6eda18fd1b3baf766e4f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lnbits/lnbits",
+    "sha": "bd0dfdeb39bceb3aa6760e2c6124d6704543c925",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 262,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "locustio/locust",
+    "sha": "027c2cf4d68598876c263ffdea5149703039bfc7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 187,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lotus-data/lotus",
+    "sha": "68b7d96f463dd01184e276dd91f1fe468fdb74b3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 22,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "lukasschwab/arxiv.py",
+    "sha": "9ff41ae146ac7578d486179043af0896f80e0141",
+    "dep_file": "setup.py",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "magenta/ddsp",
+    "sha": "510b8371124a7ffed1ca5f92bf7fed4c8273494f",
+    "dep_file": "setup.py",
+    "expected_pass": 217,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "magenta/magenta",
+    "sha": "c15687ebd1c1cc12658cd468c737d3c24c02b918",
+    "dep_file": "setup.py",
+    "expected_pass": 332,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "magic-wormhole/magic-wormhole",
+    "sha": "d518442350e073f5f18ebe8dc8feea574c7c1c1a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 465,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mahmoud/boltons",
+    "sha": "49f381eedbdcd695f7ed95110ebb1088582de7f3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 578,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mahmoud/glom",
+    "sha": "c1b2d387548fd3bb736453a6dbd6f749cf329faa",
+    "dep_file": "setup.py",
+    "expected_pass": 242,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "malmeloo/FindMy.py",
+    "sha": "7e3e7f671335c2e3845daa3ca645f66bc6c02129",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 100,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mampfes/hacs_waste_collection_schedule",
+    "sha": "b8a458ed911d2645ac2cb35c8dcfd7405c022f4d",
+    "dep_file": "requirements.txt",
+    "expected_pass": 6,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mandarons/icloud-docker",
+    "sha": "1a8446f82fb236e88c4a97322c7bc19bdb5ebced",
+    "dep_file": "requirements.txt",
+    "expected_pass": 413,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mandiant/flare-floss",
+    "sha": "6da2e94da1eb9bad991da24fb3f81fa1e789df01",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 159,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mapillary/OpenSfM",
+    "sha": "3a2041e28f10afe8e43ca6602f8dcf7db4679f5b",
+    "dep_file": "setup.py",
+    "expected_pass": 253,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "marshmallow-code/apispec",
+    "sha": "f996bb94a00207546e6f7bf48ec502d4da28b7ff",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 604,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "marqo-ai/marqo",
+    "sha": "15134c1dbf048609df99f46fef45eff7404315aa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 389,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "matthewwithanm/django-imagekit",
+    "sha": "8cc444d83ee7cbefa7ec61c3b6b0a4a623706e30",
+    "dep_file": "setup.py",
+    "expected_pass": 60,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mealie-recipes/mealie",
+    "sha": "216ae8571ce5a51602078235262f0c967c5f30fe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2267,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "meltano/meltano",
+    "sha": "23e55dec2978f227024382c533f477d860a4b3ea",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "sha": "53f0601d2d9c4eb894ea9101a5e877ea9626dafa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 521,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "memodb-io/memobase",
+    "sha": "358c16bbc6d687937d79bc2f984a11c3be8da901",
+    "dep_file": "setup.py",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "michaelchu/optopsy",
+    "sha": "f7ca2f912f94dff103398a970e87e73e6a400d44",
+    "dep_file": "setup.py",
+    "expected_pass": 1034,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "michaelhly/solana-py",
+    "sha": "4c9ee21636201adea322083a9e5b467b92806421",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 279,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "microsoft/TaskWeaver",
+    "sha": "7c78cda72fa2dfaf63214be7b9bd5e6e296a9d0e",
+    "dep_file": "setup.py",
+    "expected_pass": 100,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "microsoft/graphrag",
+    "sha": "47fae953930235e11ede77140346e0d0cd24ef0b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "microsoft/magentic-ui",
+    "sha": "f705b0ee29af5ddc03953e6d3be4c0a880a78b09",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 51,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "microsoft/msticpy",
+    "sha": "8bf8da96931642ffc71d989231849190e69d028c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1432,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "microsoft/presidio",
+    "sha": "86fa20832ba5938997daec9ce7f190392d40e333",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1684,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "miguelgrinberg/Flask-Migrate",
+    "sha": "bdc7c4697ae62f4c1e00c77787a27cce8496ee6c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "miguelgrinberg/Flask-HTTPAuth",
+    "sha": "b7e7a7fceb550684f4bcc48b9f99c23bdbf616c9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 119,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "miguelgrinberg/microdot",
+    "sha": "605dcf3b99f0004fb8075d92df55844fe28ff0a6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 136,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "miguelgrinberg/python-socketio",
+    "sha": "f33bd66c4460945e76f6bfad0414055243cf6d5b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 655,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mikedh/trimesh",
+    "sha": "8f6b2e5ea72ad01f83510bd7d0e48f4861a16eed",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 677,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "minitap-ai/mobile-use",
+    "sha": "5b78bd0e66bf213e25ca3c619401dc29e105ff19",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 21,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "miso-belica/sumy",
+    "sha": "d6b853d3a651c058cd15d9152951c6d8842b4766",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 239,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mirumee/ariadne",
+    "sha": "77ef4db2c0a24d88913a79b6f073392a0b397291",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mitmproxy/pdoc",
+    "sha": "5604670c08b14ad7fc117dcbb23f664ef6a5a5bc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 368,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mitre/caldera",
+    "sha": "bf53c7dda76fd7687610a1c099c5ad6ded093fa8",
+    "dep_file": "requirements.txt",
+    "expected_pass": 492,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mitmproxy/mitmproxy",
+    "sha": "c40ea9c0fb461c4f387d76c882dc2be55e2d500c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1942,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mkaz/termgraph",
+    "sha": "b86ccfddf55eda83bb2c3b9afe4c74478559bcb1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 20,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mkhorasani/Streamlit-Authenticator",
+    "sha": "c3383540f4971ab92083b61301b1cee1720686fd",
+    "dep_file": "setup.py",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mlco2/codecarbon",
+    "sha": "30c16a363ad0b1619b10d7e43231de455f26bdd3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 228,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "modal-labs/modal-examples",
+    "sha": "99b156080ad380444bc0b801a5b4d743fc1005f2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 369,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "modelcontextprotocol/python-sdk",
+    "sha": "8c492f42d37c919cb1e2612588aa11ce1037ec75",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 251,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "modelscope/evalscope",
+    "sha": "4212b2fdb4491e86ce1acca7f239b7f29f7cfb23",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mlflow/mlflow",
+    "sha": "473653b4a32c3f0721dcf3707bb0100e6d3a6b2b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 12,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "moj-analytical-services/splink",
+    "sha": "967c6b7c614f8a66a922b749882e7e85afcbea8b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mopidy/mopidy",
+    "sha": "879890a66bbf5b895e0e19f84903b2dab00b2b63",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1153,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mosquito/aio-pika",
+    "sha": "57029c30cef8eb44eaebad03ff1a261886b98521",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 885,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "morpheus65535/bazarr",
+    "sha": "215e26876bb0f228af472b7a1d104b472a8261ed",
+    "dep_file": "requirements.txt",
+    "expected_pass": 77,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "movingpandas/movingpandas",
+    "sha": "7fbb8385bcc569400aff422548fc0e201b903e63",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 357,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mozilla-ai/any-llm",
+    "sha": "46f812e84e7e9644dfaa53808b673bdfec2ff398",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 24,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mozilla/pontoon",
+    "sha": "ae81d88ba46c10d83ee01c6d2932c2f439980087",
+    "dep_file": "setup.py",
+    "expected_pass": 567,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mozillazg/python-pinyin",
+    "sha": "fcd68ff45247a2b203def4ff0c201b8f15d3e490",
+    "dep_file": "setup.py",
+    "expected_pass": 985,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mpmath/mpmath",
+    "sha": "f3e9cf0706b6e3b02a0124e5a367078283a3ce03",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2444,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mozman/ezdxf",
+    "sha": "c789459a42debe37e0be180fcccb2e1e54717942",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8139,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mrmn2/PdfDing",
+    "sha": "f58b8be606f56d3079883859a0ef99be6518c229",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 399,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "msgpack/msgpack-python",
+    "sha": "6357bc272c83fb450fbe7de7e7ca15d815e75174",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 120,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "msiemens/tinydb",
+    "sha": "2283a2b556d5ef361b61bae8ed89c0ce0730d7c8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 205,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "mwaskom/seaborn",
+    "sha": "32088bbc3adc611b7118e57fce6d4ed096a76a29",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2364,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nackjicholson/aiosql",
+    "sha": "310e92fd1851e8e84749439c2d252c3e945a3ebb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 98,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "narwhals-dev/narwhals",
+    "sha": "57fe3b3a5ea3351042382c9e28bafa4ad5c725b8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2651,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nat-n/poethepoet",
+    "sha": "b1589da0a5f00f5a2a4d2deef1dbdf368d4e0697",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 675,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nathom/streamrip",
+    "sha": "7efd19ed94becfe0fa2f6e681f1c9c02508927be",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 60,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nats-io/nats.py",
+    "sha": "c481ed873fdf0a4829ad979f832e4ca6b1321195",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 245,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nbQA-dev/nbQA",
+    "sha": "3f4dad1479f9c5de1ff528f8ad3d7eb5ba10ed92",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 120,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nedbat/coveragepy",
+    "sha": "42eb997d6fc8295c3f39a3e50d582dce539f76ac",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1559,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "neo4j-contrib/neomodel",
+    "sha": "6cde765fcbc7e3d21218a55cbc0e92a116b44978",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 660,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nerfstudio-project/nerfstudio",
+    "sha": "d5bd760b02caa8839cef90acdb8545f5d7d73eef",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 83,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nerfstudio-project/viser",
+    "sha": "f639f1dbc2838e8a62b2108b02415cad13b91042",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 493,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "networkx/networkx",
+    "sha": "6bf5e809983be340c28540198786e706b11f944f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8984,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "neuraloperator/neuraloperator",
+    "sha": "4b57f03423bdb9ce6b0f74908c15bfb6f5290048",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1272,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nicolargo/glances",
+    "sha": "a1ebe2457045c89a34352f670069a2e84fc33477",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 43,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "neuropsychology/NeuroKit",
+    "sha": "5c6d5b046684498292d61257c9f3b87621c2bec2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 260,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nlmatics/nlm-ingestor",
+    "sha": "7743141c54590a1229dc843d86f54ce67d1367f9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 19,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nnaisense/evotorch",
+    "sha": "aced734c81cad0d518f2ce0c6450d575bb4477c8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1024,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nolar/kopf",
+    "sha": "97068ebc5f7443ba472f838f3d05fb5556102c98",
+    "dep_file": "setup.py",
+    "expected_pass": 17,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "nucleic/enaml",
+    "sha": "9aeb6a2adbb045c3b10691bc8be11c30b4083fe0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4153,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "numpy/numpy",
+    "sha": "50ae74a3a93e57937b249cbf359c75849662406d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 45634,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "oauthlib/oauthlib",
+    "sha": "3e00e3767b038d41eba77c1a11b6ffa3ea7d53e7",
+    "dep_file": "setup.py",
+    "expected_pass": 681,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "obspy/obspy",
+    "sha": "09d8e92bc7621b6cb439cd21c1756e56e6761186",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2282,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "oegedijk/explainerdashboard",
+    "sha": "678e695d87076c2506cac75f23f065a4b9283d91",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 531,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "olucurious/PyFCM",
+    "sha": "a93abda997a7f5ff7822daf9a68555dc19e60307",
+    "dep_file": "setup.py",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "online-ml/river",
+    "sha": "943a3289343c257775629a5dbb8f8c3d5427e334",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3586,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "onnx/onnxmltools",
+    "sha": "930fae5a759dc83f46acde26eca6f850620d073a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 27,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "open-compass/opencompass",
+    "sha": "974179240a1a4e3c0ff14c60621cf1f6c95b287a",
+    "dep_file": "setup.py",
+    "expected_pass": 76,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "open-edge-platform/anomalib",
+    "sha": "63532d1f7e3db0b1ff04164f67c51efd54aa3231",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 191,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "open-thought/reasoning-gym",
+    "sha": "5dcca083096387965d2fead7a3aaa60229cc815b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 695,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "open-telemetry/opentelemetry-python",
+    "sha": "adc79870117a0f8409736fac45c3c1d1312024be",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 192,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "sha": "45813070c43b704b7a352745e579f725d2083fc5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2078,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openai/openai-python",
+    "sha": "921c330d4baebb04bbdb8070e9ced539cf49d97a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4003,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openai/tiktoken",
+    "sha": "6ec8149812275a88a99dfddb54a60b6d98d75bc2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 33,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openapi-generators/openapi-python-client",
+    "sha": "56a8849f24ede7426a35c4ded3b671ebbae0fbb8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 425,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "opendatalab/MinerU",
+    "sha": "eeab175f5c3d4afd6c0a646e5dda74bb649929cf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openinterpreter/open-interpreter",
+    "sha": "681f5ce5b84bc96a2a4cc5e90daa6328f3f796e0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openscopeproject/InteractiveHtmlBom",
+    "sha": "3c2b236ba3a260a7b77dc01d3a074b7f35e8bddf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openstenoproject/plover",
+    "sha": "8a52c5296c502507f9a46820a4a947ca25f998e6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1127,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "opentensor/bittensor",
+    "sha": "867105d0dc2a2e969c62c5ee03f5b35bd2002289",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1177,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openvinotoolkit/nncf",
+    "sha": "0e81c8c8a273a9a85cd62699cd2fb6d87bef0644",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "optuna/optuna",
+    "sha": "6b7e0e7d3e9113027724a25f60a5973efe0212bf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5048,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "openedx/edx-platform",
+    "sha": "242320642e54fdacdb32121246fd087b0410ccf6",
+    "dep_file": "setup.py",
+    "expected_pass": 9,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "oumi-ai/oumi",
+    "sha": "ff1583981caba636c02eb1871b9755b434fb0f8b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3835,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "owtf/owtf",
+    "sha": "befe1fa94121d3c96806982d97747320a225af86",
+    "dep_file": "setup.py",
+    "expected_pass": 444,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets/click",
+    "sha": "f42d4881f67ff280d005b21e9647228a87249ae3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1320,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets/jinja",
+    "sha": "8ba20d14f9a025a3e9f78cd20ad31d853b12b3fc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 911,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets/werkzeug",
+    "sha": "ac25626bb6134c12d379a1321d83d998f8c9f4b9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 980,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets-eco/flask-wtf",
+    "sha": "7e7a8b05e79bf6cfe32c6ac5e7ed8f5054ec541a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 65,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets-eco/wtforms",
+    "sha": "b5525d0071747100ee43bfe7dd7388c09210a014",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 360,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pallets/flask",
+    "sha": "a191c863066f43797f484da6c430d668548e9b52",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 495,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "paperless-ngx/paperless-ngx",
+    "sha": "5f67efbd3aff73edc764e1b31a03358862490c3d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 411,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "patrick-kidger/jaxtyping",
+    "sha": "f7e00886e6c79f4ddf11293c46fa2b6948ea6a72",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 279,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "patrick-kidger/equinox",
+    "sha": "2ff74e1660a97af7e54b780c29d8adcc2fa78ac8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 476,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pandas-dev/pandas",
+    "sha": "27a0ebf8bb3a38d16c399791ffb93ab87a8b2c81",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pdoc3/pdoc",
+    "sha": "af49da6151d6e5c2b575c105693e61af87808bda",
+    "dep_file": "setup.py",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pdm-project/pdm",
+    "sha": "2cade1a7e345707018be3002096a335fe857da44",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1083,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pennersr/django-allauth",
+    "sha": "d729357926074a1af64a4b881afac45db305aa16",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1855,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pgvector/pgvector-python",
+    "sha": "8bd3c61fc0954fc7d0e1060ce81a91315ca15010",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 502,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "piccolo-orm/piccolo",
+    "sha": "2b3ea090de5265338aa39ca717b2a242f7530233",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 857,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pikepdf/pikepdf",
+    "sha": "9bfcf005ca4de0d21ed73a361cb9bdc844715f49",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 932,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pimutils/khal",
+    "sha": "548b6e2d7e1c81a9b7d2370cb3488a2289a6c1e9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 331,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pirxthepilot/wtfis",
+    "sha": "cad4e79bed103cd326b3b298a64ab86b5099bb3e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 147,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "piskvorky/smart_open",
+    "sha": "06e40d75309d1c1455dbcee4ade6142f0fcc67bd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 427,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pipecat-ai/pipecat",
+    "sha": "65f563ad34f689ce14a2f6ecd73ecdaba26d3ec3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 616,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "plasma-umass/scalene",
+    "sha": "4b0fad8407783f2f2acb9b0f6a9bcb31ab909dad",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 316,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "plexe-ai/plexe",
+    "sha": "c89c224e44287ad945ed8297ce0003458b1346ef",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 22,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "plotly/dash",
+    "sha": "b584e4bea50b088e69352f6710152b057bc08550",
+    "dep_file": "setup.py",
+    "expected_pass": 38,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pre-commit/pre-commit",
+    "sha": "0287f07421433d9da45ded22c75803ac2def46cb",
+    "dep_file": "setup.py",
+    "expected_pass": 31,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pre-commit/pre-commit-hooks",
+    "sha": "36a1c0e621af3cf2aa9a9facf850c36f0cf99667",
+    "dep_file": "setup.py",
+    "expected_pass": 420,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "prettytable/prettytable",
+    "sha": "c433e2cbdba376936bc61604ebdcd485f080134d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 319,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "procrastinate-org/procrastinate",
+    "sha": "5ab06a6cf6c2e6d878f963b7dfe3515b32aec76d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 759,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "projectmesa/mesa",
+    "sha": "22db9ad319ee76a8572fd799dee18bacf44d180d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 413,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "prospector-dev/prospector",
+    "sha": "3e94158466499a5ef0d1e3ad00107ff8a9586c67",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 115,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pschanely/CrossHair",
+    "sha": "346196d1b04dbef787975df26682bd27848dedc4",
+    "dep_file": "setup.py",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "psf/black",
+    "sha": "16085d8632d6bb4a6cf5154f86adc19c64f30970",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 474,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "psycopg/psycopg",
+    "sha": "1a8f65a371da3c691111cd4a81141f2cb698eafa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 221,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pvlib/pvlib-python",
+    "sha": "3253a2eee752e87bd6b49ec8c9d4ec2e498c469b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1349,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pycurl/pycurl",
+    "sha": "96f43c6b9e7b5c2aad8ed3a72b25482c02749f00",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 545,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydantic/logfire",
+    "sha": "a9499c19c13dd0ebd1b1419076babd37741fe8da",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1576,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydantic/pydantic-settings",
+    "sha": "2dde0cbc52e7b25c6d6c938c5ff3b3745684d922",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 567,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydantic/pydantic-core",
+    "sha": "a10c2915f2932d5e5470816d506c4c16c962ebd7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5820,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydata/bottleneck",
+    "sha": "94d918251585b1bef38630c914da8f4b1d3334ae",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 199,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydicom/pydicom",
+    "sha": "c41b8e42094c93c900aec7b261b909bc1899a5e4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3673,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "sha": "ded41d8f00a1182eabfbba382cd6d52cb6504c3c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4132,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydoit/doit",
+    "sha": "bdaa862c029fca82edeee0083f807340e6c4dc9a",
+    "dep_file": "setup.py",
+    "expected_pass": 885,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pydata/xarray",
+    "sha": "8077f3d41b6152a86b07d4263aaca3ef6b0cd15d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 342,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyecharts/pyecharts",
+    "sha": "6fbdbc0ad49012255fc68dcf17a41438b0f4c4e5",
+    "dep_file": "setup.py",
+    "expected_pass": 341,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyeve/cerberus",
+    "sha": "65e977de08ab76d4b40ca981972f9ff68926ed63",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 246,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyeve/eve",
+    "sha": "d8bf60170484f3ce13e64ca6d7010a048e1d86f1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 820,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyexcel/pyexcel",
+    "sha": "356cc87213950a6838a1eb5105b94dff2dd9c971",
+    "dep_file": "setup.py",
+    "expected_pass": 589,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyeventsourcing/eventsourcing",
+    "sha": "ff4b816aa627e2eadc4a18b93ca28accec7272c4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 49,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyglet/pyglet",
+    "sha": "ede491cbb07976b9458e4e26ec7d2e0476811485",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 777,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pymatting/pymatting",
+    "sha": "5854027beaf36ee816cc0ba26f0cb618563ebb9a",
+    "dep_file": "setup.py",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pylint-dev/pylint",
+    "sha": "87d2a0887be015491a634479ead6cea37e4bbacf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 43,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pymodbus-dev/pymodbus",
+    "sha": "c3ec442da78abfe352e46181fc758df341a15944",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1796,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pymc-devs/pymc",
+    "sha": "9d6f6c1c6ed5e8146a8643df750706493bcc86ee",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 688,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pynamodb/PynamoDB",
+    "sha": "47f7d705f43619ca0736d955461b12b73d284cc5",
+    "dep_file": "setup.py",
+    "expected_pass": 408,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pypa/hatch",
+    "sha": "012389537341bbf107456eee83e3b9b75ee92f32",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2239,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pypa/pip-audit",
+    "sha": "4ec84acd982a9dc0bac86283b6f227f37aa8fc32",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 237,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyocd/pyOCD",
+    "sha": "dc9a6789f091b06a9064d8e49cbba264ead6e750",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1095,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pypa/setuptools",
+    "sha": "66b59b02a4ab431c2b3250547a2115d7bc44d86a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1412,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pypiserver/pypiserver",
+    "sha": "b9e724643622d4352447d958cd9d039c9e154b5d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 492,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyproj4/pyproj",
+    "sha": "d292bec101e67c6acf30cc553f89c22c6eded6b6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1042,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pypi/warehouse",
+    "sha": "389e228799e17ff0ec18f27068c4d36e1f9f3840",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5328,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pysal/pysal",
+    "sha": "236857583e084566d4c33a0f84e2b09bb4914433",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 39,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyscript/pyscript",
+    "sha": "095c8cdcb44c9c90d9442a8816fe9e9f599fa075",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 26,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyserial/pyserial",
+    "sha": "e344d58d8d348248012005fc6bff3bfdb5896092",
+    "dep_file": "setup.py",
+    "expected_pass": 109,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytest-dev/pluggy",
+    "sha": "fcc02615b996d71fc4725487306c4ffb054cd206",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 126,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytest-dev/pytest",
+    "sha": "8b109ac397de2c5287244cfb889f33965197719b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4032,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytest-dev/pytest-asyncio",
+    "sha": "cbbe2a1fc98a7663319779bc2ce9cd72fcbea009",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 240,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytest-dev/pytest-django",
+    "sha": "90c8e04b75bc3d70de60cadacb539d3592d869da",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 243,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytest-dev/pytest-xdist",
+    "sha": "7a4eeabcf83415677d69ea356b7f7aff5fd23a5e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 205,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-adaptive/adaptive",
+    "sha": "958d1d6efd6c707286700e4f1adafce676bce09a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 283,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-attrs/attrs",
+    "sha": "9ee0dd906fa7f4f40308803d9c0a9a6211743b60",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1368,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-babel/babel",
+    "sha": "dea267e50d61532efb0bee87c5a22d11f28f986d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7474,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-control/python-control",
+    "sha": "e3bfe9dd5c368ab47d13cabc7a8da5b402fc9281",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 50,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-discord/bot",
+    "sha": "e4fac34c023abe6caf43d453a1e6f35d56f9c80b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 442,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-hyper/h2",
+    "sha": "18fa3480a7a9009dd2db4a59269ff46a35b18ea5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1613,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-lsp/python-lsp-server",
+    "sha": "edce2fc183992ea3aa7d34ad6449548305eabb51",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 199,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-kasa/python-kasa",
+    "sha": "cba457ad75bed2cd72f28ba56bd72c02f612e343",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 21837,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-pendulum/pendulum",
+    "sha": "38a86db943a1999fba22fb1fe3f1e101737c7d8f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-poetry/cleo",
+    "sha": "a6859334166281b8a7052f2069ea194f55f1313d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 247,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-poetry/poetry",
+    "sha": "38d02e4441521ec51631b7daf5f2390eb7dfac07",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2941,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-streamz/streamz",
+    "sha": "afc891c9ac18032c91b67c8d3ea24a34d078134f",
+    "dep_file": "setup.py",
+    "expected_pass": 1040,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-trio/trio",
+    "sha": "f0e17675d05208ae0e3680840205cf266ade5f7a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 724,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-telegram-bot/python-telegram-bot",
+    "sha": "f18ab3a62a3324c6ca6e8856fd45c37dafcda451",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 28,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-validators/validators",
+    "sha": "5991259c3a66a0b1d8665476a49f98b530019063",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 952,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "python-visualization/folium",
+    "sha": "93ca247e8788736d40444cda213751723bb1aafe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 41,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytoolz/toolz",
+    "sha": "3637838ef2717ccb5ef5897800bc041283686908",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 262,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytorch/extension-cpp",
+    "sha": "1c325b202ae5e11de3cefb9a65be28f47949edd4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 24,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytorch/ao",
+    "sha": "d54d0db76bb8a9676ae772a43ee5b7b6a4124d2f",
+    "dep_file": "setup.py",
+    "expected_pass": 140,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "sha": "cf3a213980b69beba49221f5bf2fd0ff64dad938",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 87,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "pyupio/safety",
+    "sha": "81d7eade9932d5378de6ca35bceed5d53f1c4e31",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1292,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "qdrant/mcp-server-qdrant",
+    "sha": "860ab93a96ca9f5e6cf6fe47e2f5b75d36eaac69",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 24,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "qdrant/qdrant-client",
+    "sha": "e7101dc5baf4d3ce7d6321e1500311619aa95a99",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 517,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "qodo-ai/pr-agent",
+    "sha": "557b166bc6e8a8e5886a10100f77ce3408c784e2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 248,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "quodlibet/mutagen",
+    "sha": "a161810a072ec7f709114fc8a4cac7958693f780",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4039,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "qutebrowser/qutebrowser",
+    "sha": "3cd721c8405155a06a789c1c9b33393d59ddb57c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 9773,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "quodlibet/quodlibet",
+    "sha": "121b6e218a5ba87baf559719c25845030d837218",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4679,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "qutip/qutip",
+    "sha": "51305b7062640e3718e133d985347f6248747d04",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 964,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "r1chardj0n3s/parse",
+    "sha": "a285c6670773dcc3a2085b07fef281320a284a8e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 99,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ranger/ranger",
+    "sha": "dfeaa33fde89cf72da0bb8e9d35c573a39fd621e",
+    "dep_file": "setup.py",
+    "expected_pass": 15,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "raphaelvallat/pingouin",
+    "sha": "089bcb3a3c2336c39b8168df8342635d7f1f8ad9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 88,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rasbt/reasoning-from-scratch",
+    "sha": "7e37dd89f0793d9d8d93fa07b3770bca9d177c12",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 484,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rcaloras/bashhub-client",
+    "sha": "5cc71e3d54abebac948d68c0d1491cff4f290b4b",
+    "dep_file": "setup.py",
+    "expected_pass": 15,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "reactive-python/reactpy",
+    "sha": "613b256abc1b0eedf6290579acb3b34f8329edbc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 478,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "reata/sqllineage",
+    "sha": "5b2e2d1c6ef96d8712e65c83d2db516e51345f4b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 450,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "redis/redis-om-python",
+    "sha": "0044f555d261df22fe2f171129f747088e546bbe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 537,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "reflex-dev/reflex",
+    "sha": "e7c374215e568ec32b5cdc1d64c11030cb453bfd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "remsky/Kokoro-FastAPI",
+    "sha": "3af45719940c915b53ad2a63f9cdb6f22680d276",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 82,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "requests-cache/requests-cache",
+    "sha": "199801b5c065c90e6920fe20a352f46ef74e536c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1632,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "revsys/django-health-check",
+    "sha": "e6708d81b49c0513d96987f87d843085a67e91a4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 202,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rhasspy/wyoming-satellite",
+    "sha": "e58e7e2c8da662c68d00ef8aa21e35ecb38d363f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "roboflow/inference",
+    "sha": "4446d732d0e95bed024d16c9e93fa1cc95b0981c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2338,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "roboflow/supervision",
+    "sha": "ec7d379ac12debe8aae39ce91f9c3ef1cfa92ac6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1243,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "roboflow/trackers",
+    "sha": "5d7f22f3b7bd8aadb9acee86d5cdd32f8070d0a7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 195,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "robotframework/SeleniumLibrary",
+    "sha": "22b9dd2a33e4908293b9c9fdc791eed84c8cc7a9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 532,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "robotframework/RIDE",
+    "sha": "70bf9d2f5d42ab82ed6f879e4245ce8e15d3f236",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1368,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "robusta-dev/krr",
+    "sha": "81eab9261c41e529212bab97baf98730fd1a41e1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 55,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "robusta-dev/robusta",
+    "sha": "a4ee10a768868625d13d2804560089b5f89ed58e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 276,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "robcarver17/pysystemtrade",
+    "sha": "9e9de09ba543b28c9a598f9a5fa259a4e8080fe5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 71,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "roflcoopter/viseron",
+    "sha": "178b720e3c6d480fea88cde6ffc0b261c956c962",
+    "dep_file": "setup.py",
+    "expected_pass": 45,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ronf/asyncssh",
+    "sha": "1af489f13395bc306dda16b789263f6f60664062",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1728,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rq/rq",
+    "sha": "7f07d2bb5dda1f0340a08d2c8fd8b87ff2276243",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rsalmei/alive-progress",
+    "sha": "a89a251fa5c700a854be7e06373647f84ef6f2a6",
+    "dep_file": "setup.py",
+    "expected_pass": 563,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "run-llama/llama_deploy",
+    "sha": "c4e1c490287c5de3640651061c21013e5737575f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 174,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rotki/rotki",
+    "sha": "582797ca7fe7efd641bf5ef8b48010f0b60aef38",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2601,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "rytilahti/python-miio",
+    "sha": "4493f122168c0ef0927646756a0141fdc8153644",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1305,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "s3ql/s3ql",
+    "sha": "e2b1142b608ab3ed6a58d4f0039b1614c38a4e74",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 370,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "s3rius/FastAPI-template",
+    "sha": "99865f154ce8f08a79e2d990857099c86743d222",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 51,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "safety-research/circuit-tracer",
+    "sha": "14cc3e8443d6bca1fc58752aca28207ba2128a3c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 85,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "schemathesis/schemathesis",
+    "sha": "8fd7017aa45d89cd2d9069d399f6034517cd69d3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 116,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scipy-lectures/scientific-python-lectures",
+    "sha": "72b8c4387f2ca07a1c52f2f796313d4e9b86c698",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scrapinghub/dateparser",
+    "sha": "16922fd4aaeee8cfbb75f41fe987e255fad18102",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 24040,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scrapy/parsel",
+    "sha": "05b3d37bf292d012f3d0b71fb7f0697d03af113e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 393,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scrapy-plugins/scrapy-playwright",
+    "sha": "05028850e5fbc08f8b82cadbe244617949d38cb6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 148,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "sha": "7010985e4f37150834bd25f5c7820b40df3399b4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 17,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "scverse/scvi-tools",
+    "sha": "51c0181c6c241f4182895ba2bee6960822f65b61",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 570,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sdatkinson/neural-amp-modeler",
+    "sha": "6b8b4411442dc35815cd3d1bef9006881506c47c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 271,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sdv-dev/SDV",
+    "sha": "57bf27402a6c4c3f0dc90a85c8c84f13b93da648",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "se2p/pynguin",
+    "sha": "a8764cf57e92316b9b26b487fa4fd9ec38d631f8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4295,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sebp/scikit-survival",
+    "sha": "ff257f30c8d5583310f699d95bce79e3be4b80b5",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 920,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "securisec/chepy",
+    "sha": "0bb2e56065e8300e95902c38954cf59d5d1d37b5",
+    "dep_file": "setup.py",
+    "expected_pass": 477,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "seleniumbase/SeleniumBase",
+    "sha": "1ab98f55711484995e4240ad7e557f948985e5be",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 8,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sentinel-hub/eo-learn",
+    "sha": "df8bbe80a0a0dbd9326c05b2c2d94ff41b152e3d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1219,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "shapely/shapely",
+    "sha": "f4c2e553c5cd6235111393f3397d2e733800cd2b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 6522,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sherlock-project/sherlock",
+    "sha": "c8a181aa3c4cb02bc23aef2124da130578afb0bf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 25,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sigma67/ytmusicapi",
+    "sha": "f107aeb56f8c9dd486e8a169ff496a4b0aa695e7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 123,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "siliconcompiler/siliconcompiler",
+    "sha": "4e0c50633d0b465bfa6acc9483703c95f8c1b779",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3888,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "simple-login/app",
+    "sha": "26537ef65fb87895eab7e86e171f099ba7d9c322",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 859,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sissbruecker/linkding",
+    "sha": "12dd969581f6bb1fb4afc381d4936b114200d356",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1267,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "skrub-data/skrub",
+    "sha": "4816479805fbe9965a54083216af911bb2f49006",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2508,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "skforecast/skforecast",
+    "sha": "ba0b1036608edb50ccb050f2c19ee525d96037a8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3733,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "skyzh/tiny-llm",
+    "sha": "ddfcaedfef0b597b0e5401bbce5a5b3a25b7e082",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 200,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "slackapi/bolt-python",
+    "sha": "837e120a3119f6b92da1dd52064a2400e9f97ba9",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 242,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "slackapi/python-slack-sdk",
+    "sha": "f14e689e11c2509891b23cb51044451725ef407f",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 943,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sloria/TextBlob",
+    "sha": "59bafb77c0d9062409c11e39c651eb7217f378f2",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 217,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sloria/environs",
+    "sha": "eddf608b42c0768179365a10e9044fb8d2ac5cf0",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 122,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "snakers4/silero-vad",
+    "sha": "21aab630d593f6a871d40d63714364cc04dabf19",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sooperset/mcp-atlassian",
+    "sha": "91affefdb97938737123f1cec3ef0dac3a39116c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1916,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "soxoj/maigret",
+    "sha": "736be5b047d685fb02a66bef6558866924ef408a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 70,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sparckles/Robyn",
+    "sha": "a93675ec084b7a8a15add81b226514937a3ca1ff",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 0,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "speaches-ai/speaches",
+    "sha": "ffe2934b9bf41ff78a796bc8c9369b0b545a68bd",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 90,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "spec-first/connexion",
+    "sha": "bd3e97d24b37ffaa9ae7f613d5162ef3c1cc73af",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 802,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "speechbrain/speechbrain",
+    "sha": "052132a6b01ecba71b565bbaa6afc60dd948b0ab",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 742,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "spotify/luigi",
+    "sha": "6d433f525bb2a7f447594d7ba4f3b5ff12afd242",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1469,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "spyoungtech/ahk",
+    "sha": "f8b77dcef42ec1a8a799d3c09746309f9f8c2c31",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 312,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "spyder-ide/qtpy",
+    "sha": "2cbc6c527f1b922c84f2013e2b6c0dd222a0c090",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 134,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sqlalchemy/alembic",
+    "sha": "285424809f75410e833799527784b70a833d6220",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1746,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sshuttle/sshuttle",
+    "sha": "eaf14235626fcdd229d2253d3a903dad95542b3b",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 73,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "stanford-crfm/helm",
+    "sha": "25df79faba37f68614bcc1f8ff06f37beace6146",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 337,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "stared/livelossplot",
+    "sha": "1ff083bb7b37baefcb9990fcc9e9886ab391f634",
+    "dep_file": "setup.py",
+    "expected_pass": 13,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "sha": "481530d125fa71d2e09ed89a9606c7c4468b2ce1",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 692,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "streamlink/streamlink",
+    "sha": "907ccbf6627011e065d24c244a4ad0256fe4c800",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7012,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "stripe/stripe-python",
+    "sha": "a4f4d9ff726b2a4cb8711801997e1d13beb9d009",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 4323,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sunscrapers/djoser",
+    "sha": "07c267131470c0fc7be67fc854371a9ccffe55b4",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 178,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "sunnypilot/sunnypilot",
+    "sha": "111e8897be79f4c99734e77d0c389612f14a8e50",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1103,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "taskiq-python/taskiq",
+    "sha": "d1fa98fe8eb16d51d83a5310c9aa725a682d2d00",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 246,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "taverntesting/tavern",
+    "sha": "57f094b5af71fef717d393f7f6f8795b488451a3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 536,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tensortrade-org/tensortrade",
+    "sha": "2a4fb4eb48dcdc2d97746283107a9ec041e36f68",
+    "dep_file": "setup.py",
+    "expected_pass": 477,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "testcontainers/testcontainers-python",
+    "sha": "f4b9dca8ce12596a8f8af706b8b387d43322d4ad",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 309,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "textstat/textstat",
+    "sha": "e398f27543389283e847fc29568b049623c0e243",
+    "dep_file": "setup.py",
+    "expected_pass": 450,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tfeldmann/organize",
+    "sha": "11aff8f52768182261ed447d2f21cb93e1009cea",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 268,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "theskumar/python-dotenv",
+    "sha": "5d6697baeb9d6432c8a37fcccb9c57eb1cf7c3da",
+    "dep_file": "setup.py",
+    "expected_pass": 211,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "thieu1995/mealpy",
+    "sha": "d1542a06a30230ca5361934350445a802e914379",
+    "dep_file": "setup.py",
+    "expected_pass": 398,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "thp/urlwatch",
+    "sha": "36c810d6018fdfa4b0fadfb7a3cd66849f1efeaa",
+    "dep_file": "setup.py",
+    "expected_pass": 107,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "timonweb/django-tailwind",
+    "sha": "86149938463cfaad3a2e8e04182b8c37784fd75a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 38,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tkem/cachetools",
+    "sha": "e5f8f0172ba97490ac67f971d040e70686d862f6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 253,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tmux-python/libtmux",
+    "sha": "3cec7a2ea07379355ef35fa197c3e31018868fb6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 876,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tinygrad/tinygrad",
+    "sha": "e2b1f2620dd38d90fef56d3f72e2c9bbb19a0c8b",
+    "dep_file": "setup.py",
+    "expected_pass": 1401,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tmux-python/tmuxp",
+    "sha": "e3d7ac79f6e936727ec58e9d18d8ae5bc2193813",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1020,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tobgu/pyrsistent",
+    "sha": "0c0b7aec8cd25b1d2d8ba07b10acdefd0f38f2c7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 637,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tomerfiliba/plumbum",
+    "sha": "3c89866cf059fdcfa6561bfdc8cf6721c2c95ca8",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 392,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tortoise/tortoise-orm",
+    "sha": "314273c0359e06233b4563b3e967c9974f420c00",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 24,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tox-dev/pipdeptree",
+    "sha": "ab5e21e75ce632cb0e5b6f0cbba4677e8469346a",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 155,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tox-dev/tox",
+    "sha": "648f0f6c913fc38b304b9e68d63f763df1eef536",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 7437,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "trallnag/prometheus-fastapi-instrumentator",
+    "sha": "18dbfd64f1cdc4cebbd16714943e5da7910c3d39",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 75,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tryolabs/requestium",
+    "sha": "a76249e89876033bd25469a15d78f852ae3ea494",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 136,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "tslearn-team/tslearn",
+    "sha": "04b36bff48e0c0e78eab4ab5a89d1d88d3049ff7",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1186,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "twilio/twilio-python",
+    "sha": "3477f4527a31c840fd84fa84dec2cdb4be51e51e",
+    "dep_file": "setup.py",
+    "expected_pass": 620,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "uber/petastorm",
+    "sha": "01ba9cb7da8d8a6937e177aee39e241e10569d29",
+    "dep_file": "setup.py",
+    "expected_pass": 451,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "uber/causalml",
+    "sha": "1e52a331dbd27fbfade377c86a21150e954a74f6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 110,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "ucbepic/docetl",
+    "sha": "1744bfcef77dd104ceb129cb2ab39d0fe337b0c3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 113,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "un33k/python-slugify",
+    "sha": "7b6d5d96c1995e6dccb39a19a13ba78d7d0a3ee4",
+    "dep_file": "setup.py",
+    "expected_pass": 82,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "unitaryai/detoxify",
+    "sha": "547246a739ebeae984a2237e9c0319ddcac72129",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 15,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "uriyyo/fastapi-pagination",
+    "sha": "4d77d268c39c0556a1a4e77ff283801d2f98514e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 3071,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "urllib3/urllib3",
+    "sha": "3208b708bd6aad59e273a77c17903d9a72530732",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1960,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "utiasDSL/gym-pybullet-drones",
+    "sha": "82b0fda6d005b287cdc1ef0c313d09a361027c45",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vanna-ai/vanna",
+    "sha": "365d0617c1a4567ffee1b19b40c27feb4206bfcf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 56,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vega/altair",
+    "sha": "a48a2cc1f6a4463912564c4dbcb226f7ae17b913",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1875,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vial-kb/vial-gui",
+    "sha": "5cc9f89a818436e15b1a7767e50d61ade8f1f889",
+    "dep_file": "requirements.txt",
+    "expected_pass": 26,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vintasoftware/django-react-boilerplate",
+    "sha": "26ae88fc50c4054425f4234ea8f627f266ee3de3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vispy/vispy",
+    "sha": "d3448b2f30e115d8f7aa8d39579c62ba1989a732",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 239,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vitalik/django-ninja",
+    "sha": "e792ad666e2a31e2ea2f4ccd37fe5dcb6482b764",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 738,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "vllm-project/llm-compressor",
+    "sha": "22b29bc144ddc4612740a2a261c4cda197380b1d",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 329,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "voicepaw/so-vits-svc-fork",
+    "sha": "a3727285bf084a2b4d0b97690ec3b67b595ff41e",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "voila-dashboards/voila",
+    "sha": "3c9d38487a423104129244bc9c509fe6ad6e68b3",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 60,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "waditu/czsc",
+    "sha": "04b1fb668b3385b4d6972f9390a9efcf44c1fb67",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 316,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "wandb/weave",
+    "sha": "4742dfe8db9237132d4e2883ae80e02b06ada6e6",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 128,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "wapiti-scanner/wapiti",
+    "sha": "6259795a752b37e50315893888b3d822cd0dc128",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 597,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "watson-developer-cloud/python-sdk",
+    "sha": "fb4c5800496e7081c4cb7e9dae1205a88ccec3cc",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1536,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "websocket-client/websocket-client",
+    "sha": "10d9159af9ba1ecb76e0ebb6a04edfd990eacbbb",
+    "dep_file": "setup.py",
+    "expected_pass": 2,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "wemake-services/wemake-python-styleguide",
+    "sha": "419238d62b9f122d32f309e02578937a919f3d3c",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 27314,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "widgetti/solara",
+    "sha": "a78a287e011adc23044e8e0fdc5e214f999230bf",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 1,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "wkentaro/gdown",
+    "sha": "7f4cb689c5e4e31a55fd007fc400c50975f42799",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 15,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "writer/writer-framework",
+    "sha": "da822790cd9ea4199b34694a2d15037caa3b1fdb",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 393,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "xflr6/graphviz",
+    "sha": "fe0fc09aefc21bd5ce5c3224a36377cff2ded1fe",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 366,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "xonsh/xonsh",
+    "sha": "3b1e93d4073feb63181981f3d07e234fee136fee",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 5216,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "yezz123/authx",
+    "sha": "60026549088390d9eb24038476e9ed58ca0e72aa",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 273,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "sha": "8760d2163d04d48ed2be9a1959c401ce16035f64",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 886,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "zarr-developers/zarr-python",
+    "sha": "efed3a481178a7bb60e5be831f05cf760c63d402",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 11,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "zvtvz/zvt",
+    "sha": "4b2f4b2d917b588e1ab3f27e3c8e67dce9d5e084",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 73,
+    "failure_logs": {},
+    "infeasible_reason": null
+  },
+  {
+    "repo": "zylon-ai/private-gpt",
+    "sha": "f77e645d66b7d5067ed81bcd75df7b6b31441377",
+    "dep_file": "pyproject.toml",
+    "expected_pass": 41,
+    "failure_logs": {},
+    "infeasible_reason": null
+  }
+]

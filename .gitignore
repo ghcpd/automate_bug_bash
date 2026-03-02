@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Ruff / Linting
+.ruff_cache/
+.mypy_cache/
+
+# Docker
+*.log
+
+# Pipeline output
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config overrides
+config.local.yaml
