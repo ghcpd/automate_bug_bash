@@ -1,0 +1,6 @@
+{
+  "repo": "holoviz/panel",
+  "sha": "28bfe6288f3490c8d35968276680a1955bdfe1e6",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && PANEL_LITE=1 uv pip install --python /opt/venv/bin/python -e \".[tests]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
