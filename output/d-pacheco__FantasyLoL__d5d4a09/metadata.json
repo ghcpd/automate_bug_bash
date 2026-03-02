@@ -1,0 +1,6 @@
+{
+  "repo": "d-pacheco/FantasyLoL",
+  "sha": "d5d4a0984217de1205bea70efe7fae7cb4120e72",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -r requirements-base.txt -r requirements-dev.txt pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
