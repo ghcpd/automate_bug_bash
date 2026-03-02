@@ -1,0 +1,6 @@
+{
+  "repo": "Blueprints-org/blueprints",
+  "sha": "730f931b54b9887f43ee344ec9bc5baf796e20b4",
+  "setup_cmd": "cd /app && sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --all-groups",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
