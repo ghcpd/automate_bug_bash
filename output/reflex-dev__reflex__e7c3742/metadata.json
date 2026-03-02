@@ -1,0 +1,6 @@
+{
+  "repo": "reflex-dev/reflex",
+  "sha": "e7c374215e568ec32b5cdc1d64c11030cb453bfd",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --dev --quiet",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
