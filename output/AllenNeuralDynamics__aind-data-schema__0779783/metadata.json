@@ -1,0 +1,6 @@
+{
+  "repo": "AllenNeuralDynamics/aind-data-schema",
+  "sha": "077978381fd7f91c7c683ceea0fe9f6e37149cbf",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev]\" pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
