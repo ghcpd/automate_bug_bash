@@ -1,0 +1,6 @@
+{
+  "repo": "Deltares/hydromt",
+  "sha": "a8a0ec0cf212067b6aee8a30eb663d29f609e855",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[dev,test]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
