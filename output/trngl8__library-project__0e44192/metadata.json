@@ -1,0 +1,6 @@
+{
+  "repo": "trngl8/library-project",
+  "sha": "0e44192c1c5a3aa9caa30fbe89b8ec7c8212addf",
+  "setup_cmd": "uv venv /opt/venv --quiet && { uv pip install --python /opt/venv/bin/python -r requirements-dev.txt --quiet 2>/dev/null; true; } && uv pip install --python /opt/venv/bin/python -r requirements.txt --quiet && uv pip install --python /opt/venv/bin/python pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
