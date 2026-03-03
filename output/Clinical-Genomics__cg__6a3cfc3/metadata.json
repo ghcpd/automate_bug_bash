@@ -1,0 +1,6 @@
+{
+  "repo": "Clinical-Genomics/cg",
+  "sha": "6a3cfc3a3fbff617fde67a638bc434e16ae13eed",
+  "setup_cmd": "sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --all-extras",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
