@@ -1,0 +1,6 @@
+{
+  "repo": "dstackai/dstack",
+  "sha": "9eea926fd68f2fefae60de1a342e1e70f3d91220",
+  "setup_cmd": "cd /app && sed -i '/^required-version/d' pyproject.toml 2>/dev/null; true && uv sync --group dev",
+  "test_cmd": "/app/.venv/bin/python -m pytest --tb=short -q"
+}
