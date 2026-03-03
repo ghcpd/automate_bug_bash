@@ -1,0 +1,6 @@
+{
+  "repo": "cschlaffner/PROTzilla2",
+  "sha": "738c6c6045fe72fa1d69856548a893bdff65d84a",
+  "setup_cmd": "uv python install 3.11 && uv venv /opt/venv --python 3.11 --quiet --clear && uv pip install --python /opt/venv/bin/python -r requirements.txt --quiet && uv pip install --python /opt/venv/bin/python 'setuptools<71' --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
