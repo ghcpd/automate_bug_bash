@@ -1,0 +1,6 @@
+{
+  "repo": "ansys/pyfluent",
+  "sha": "ce1c60f276e2f0db0cf76f4913ec9f7e3713f18e",
+  "setup_cmd": "uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e \".[tests,reader]\" --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q --ignore=tests/test_field_data.py --ignore=tests/test_settings_api.py"
+}
