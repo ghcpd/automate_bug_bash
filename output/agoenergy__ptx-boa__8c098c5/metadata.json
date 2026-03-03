@@ -1,0 +1,6 @@
+{
+  "repo": "agoenergy/ptx-boa",
+  "sha": "8c098c50d7b55190f9659ae2cf9f69a8bd4ff8b2",
+  "setup_cmd": "uv venv /opt/venv --quiet && { uv pip install --python /opt/venv/bin/python -r requirements-dev.txt --quiet 2>/dev/null; true; } && uv pip install --python /opt/venv/bin/python -r requirements.txt --quiet && uv pip install --python /opt/venv/bin/python pytest --quiet",
+  "test_cmd": "/opt/venv/bin/python -m pytest --tb=short -q"
+}
