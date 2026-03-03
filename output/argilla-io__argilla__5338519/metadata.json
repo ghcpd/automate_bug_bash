@@ -1,0 +1,6 @@
+{
+  "repo": "argilla-io/argilla",
+  "sha": "5338519accb13ae422f8bf9c0642651c249c49af",
+  "setup_cmd": "cd /app/argilla && uv venv /opt/venv --quiet && uv pip install --python /opt/venv/bin/python -e '.[dev]' --quiet && uv pip install --python /opt/venv/bin/python pytest pytest-mock pytest-httpx pyarrow markdown --quiet",
+  "test_cmd": "cd /app/argilla && /opt/venv/bin/python -m pytest tests/unit --tb=short -q"
+}
